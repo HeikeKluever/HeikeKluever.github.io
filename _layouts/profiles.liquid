@@ -1,0 +1,219 @@
+---
+layout: page
+---
+<div class="post">
+  <article>
+  <h2>current team members</h2>
+    {% if page.profiles %}
+      {% for profile in page.profiles %}
+        <hr>
+        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+          {% if profile.image %}
+            {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+            {% if profile.image_circular %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+            {% else %}
+              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% endif %}
+            {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+          {% endif %}
+          {% if profile.more_info %}
+            <div class="more-info">{{ profile.more_info }}</div>
+          {% endif %}
+        </div>
+
+        <div class="clearfix">
+          {% if profile.content %}
+            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+            {{ profile_content | markdownify }}
+          {% else %}
+            {{ content }}
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endif %}
+  </article>
+</div>
+
+<div class="post">
+  <article>
+    <h2 style="margin-top: 20px;">alumni</h2>
+    <hr>
+    <table style="width: 100%;">
+      <tbody>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://rise.unibas.ch/de/team/anthea-alberto/"><strong>Dr. Anthea Alberto</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Research Navigator, Universität Basel</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="http://www.mzes.uni-mannheim.de/d7/de/profiles/denis-cohen">
+              <strong>Dr. Denis Cohen</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Postdoctoral Research Fellow, MZES Mannheimer Zentrum für Sozialforschung</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://www.wzb.eu/de/personen/fabio-ellger">
+              <strong>Dr. Fabio Ellger</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Postdoctoral Research Fellow, WZB Wissenschaftszentrum Berlin für Sozialforschung</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://corneliuserfort.de/">
+              <strong>Dr. Cornelius Erfort</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Postdoctoral Research Fellow, Universität Witten/Herdecke</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://violeta-haas.github.io/">
+              <strong>Dr. Violeta Haas</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Postdoctoral Research Fellow, Institute for Advanced Study in Toulouse (IAST) &amp; Toulouse School of Economics (TSE)</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="http://hartmannfelix.github.io/">
+              <strong>Dr. Felix Hartmann</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Postdoctoral Research Fellow, Copenhagen Business School</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="http://www.svenja-krauss.com/">
+              <strong>Dr. Svenja Krauss</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Postdoctoral Research Fellow, Universität Wien</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://www.theres-matthiess.de/about/">
+              <strong>Prof. Dr. Theres Matthieß</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Juniorprofessorin, Georg-August-Universität Göttingen</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://www.hertie-school.org/de/forschung/professoren/profil/person/munzert">
+              <strong>Prof. Dr. Simon Munzert</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Professor of Data Science and Public Policy, Hertie School of Governance</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://www.donau-uni.ac.at/de/universitaet/organisation/mitarbeiterinnen/person/4295302386">
+              <strong>Dr. Katrin Praprotnik</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Research Fellow, Donau-Universität Krems</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://sites.google.com/view/jochenrehmert/home">
+              <strong>Dr. Jochen Rehmert</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Postdoctoral Research Fellow, Universität Zürich</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="http://lukas-stoetzer.org/">
+              <strong>Prof. Dr. Lukas F. Stoetzer</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Professor for Quantitative Methods, Universität Witten/Herdecke</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://www.janstuckatz.com/">
+              <strong>Prof. Dr. Jan Stuckatz</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Assistant Professor, Copenhagen Business School (CBS)</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://mariathuerk.com/">
+              <strong>Dr. Maria Thürk</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Postdoctoral Research Fellow, Universität Basel</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://www.forte.tum.de/kontakt/">
+              <strong>Dr. Christoph Uhl</strong></a></p>
+          </td>
+          
+          <td style="width: 420.031px; height: 45px;">
+            <p>Referent in der Forschungsabteilung, TU München</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://www.asliunan.com/">
+              <strong>Prof. Dr. Asli Unan</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Assistant Professor in European Political Economy, University of Amsterdam</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="https://antoniovalentim.github.io/">
+              <strong>Prof. Dr. António Valentim</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Assistant Professor, London School of Economics and Political Science (LSE)</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p><a href="http://florian-weiler.simplesite.com/">
+            <strong>Prof. Dr. Florian Weiler</strong></a></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Assistant Professor, Central European University, School of Public Policy in Wien</p>
+          </td>
+        </tr>
+        <tr style="height: 45px;">
+          <td style="width: 239.969px; height: 45px;">
+            <p>
+              <strong>Dr. Marie Elisabeth Zeidler</strong></p>
+          </td>
+          <td style="width: 420.031px; height: 45px;">
+            <p>Referentin bei Bündnis 90/Die Grünen im Deutschen Bundestag</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </article>
+</div>

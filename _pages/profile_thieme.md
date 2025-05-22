@@ -1,0 +1,3 @@
+[**Frederik Thieme**](https://frederikthieme.net/) has been a research assistant and doctoral student at the Chair of Comparative Political Behavior since April 2023. Before receiving his master's degree in social sciences from Humboldt University, he studied publishing and communication as well as political science at Freie Universität Berlin. During his studies, he already worked as a student assistant at the Chair of Comparative Political Behavior.
+
+Frederik Thieme's research focuses on the influence of events on the behavior of political actors. He also focuses on the intersection of economic inequality and political behavior and possible interactions. 
