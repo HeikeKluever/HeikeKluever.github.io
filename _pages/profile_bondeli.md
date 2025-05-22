@@ -1,0 +1,3 @@
+[**Moritz Bondeli**](https://mbondeli.github.io/) is a Postdoctoral Researcher affiliated with the Institute for the Social Sciences at Humboldt Universität zu Berlin. In his research, he deploys quantitative methods of causal inference to study democratization and democratic erosion.
+ 
+He has completed his Ph.D. in Political Science at Yale University in the spring of 2025. Previously, he studied at the Universities of Oxford and Lausanne. His dissertation research on Weimar Germany is supported by an Emerging Scholar Award from the Harry Frank Guggenheim Foundation.
