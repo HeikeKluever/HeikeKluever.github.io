@@ -2,7 +2,7 @@
 layout: page
 title: GovLab
 permalink: /govlab/
-description: Humboldt-Governance Lab
+description: Humboldt Governance Lab
 nav: true
 nav_order: 8
 ---
