@@ -13,7 +13,7 @@ nav_order: 5
   
   <img src="{{ '/assets/img/data_partypress.jpg' | relative_url }}" alt="PARTYPRESS" style="float: left; margin: 0 10px 10px 0; border-radius: 10px; max-width: 100%; height: auto; width: 300px;">
 
-  <p>The <strong>PARTYPRESS</strong> <strong>dataset</strong> compiles more than 250,000 published press releases from 68 parties in 9 European countries. The database covers the press releases of the most relevant political parties in these countries from 2010 onward. It provides a supervised machine learning classification of press releases into 21 unique issue categories according to a general codebook. The PARTYPRESS Database can be used to study parties’ issue agendas comparatively and over time. The Partypress dataset has been compiled with the generous support of the German Research Foundation (Grants KL 2692/1-1 and KL 2692/3-1).
+  <p>The <strong>PARTYPRESS</strong> <strong>dataset</strong> compiles more than 250,000 published press releases from 68 parties in 9 European countries. The dataset covers the press releases of the most relevant political parties in these countries from 2010 onward. It provides a supervised machine learning classification of press releases into 21 unique issue categories according to a general codebook. The PARTYPRESS dataset can be used to study parties’ issue agendas comparatively and over time. The Partypress dataset has been compiled with the generous support of the German Research Foundation (Grants KL 2692/1-1 and KL 2692/3-1).
   </p>
 
   <p><strong>data access</strong><br>
