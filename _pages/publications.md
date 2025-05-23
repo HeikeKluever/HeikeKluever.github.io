@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description:
+description: Below you can find a list of peer-reviewed articles I have (co-)​authored. There is also a list of books I have (co-)​authored or (co-)​edited.
 nav: true
 nav_order: 3
 ---
@@ -15,6 +15,12 @@ nav_order: 3
 
 <div class="publications">
 
-{% bibliography -f publications %}
+<h2>articles</h2>
+
+{% bibliography -f publications -q @article %}
+
+<h2 style="margin-top: 80px;">books</h2>
+
+{% bibliography -f publications -q @book %}
 
 </div>

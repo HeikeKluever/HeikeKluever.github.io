@@ -37,20 +37,6 @@
       "endDate": "2012-04"
     },
     {
-      "name": "Research College: The transformative Power of Europe, FU Berlin",
-      "position": "External Research Fellow",
-      "url": "https://www.polsoz.fu-berlin.de/en/v/transformeurope/about/index.html",
-      "startDate": "2011-08",
-      "endDate": "2012-08"
-    },
-    {
-      "name": "Mannheim Center for European Social Research",
-      "position": "External Research Fellow",
-      "url": "https://www.mzes.uni-mannheim.de/d7/en",
-      "startDate": "2010-09",
-      "endDate": "2012-08"
-    },
-    {
       "name": "Maxwell School of Citizenship and Public Affairs",
       "position": "Visiting Research Fellow",
       "url": "https://www.maxwell.syr.edu/",
@@ -101,6 +87,13 @@
     "startDate": "2024-04"
     },
     {
+      "organization": "European Research Council (ERC)",
+      "position": "Member of the Starting Grant Panel (SH2)",
+      "url": "https://erc.europa.eu/apply-grant/starting-grant",
+      "startDate": "2024",
+      "endDate": "2025"
+    },
+    {
     "organization": "Leibniz Institute for the Social Sciences (GESIS)",
     "position": "Member of the User Advisory Board",
     "url": "https://www.gesis.org/en/institute/about-us/the-association/user-advisory-board",
@@ -117,7 +110,8 @@
     "organization": "The Journal of Politics",
     "position": "Associate Editor",
     "url": "https://www.journals.uchicago.edu/journals/jop/board",
-    "startDate": "2021-01"
+    "startDate": "2021-01",
+    "endDate": "2024-12"
     },
     {
     "organization": "European Union Politics",
@@ -129,13 +123,15 @@
     "organization": "Research & Politics",
     "position": "Associate Editor",
     "url": "https://journals.sagepub.com/editorial-board/RAP",
-    "startDate": "2018"
+    "startDate": "2018",
+    "endDate": "2023"
     },
     {
     "organization": "Journal of European Public Policy",
     "position": "Member of the Editorial Board",
     "url": "https://www.tandfonline.com/journals/rjpp20/about-this-journal#aims-and-scope",
-    "startDate": "2013"
+    "startDate": "2013",
+    "endDate": "2023"
     },
     {
     "organization": "Interest Groups & Advocacy",
@@ -168,12 +164,6 @@
       "summary": "The impact of COVID-19 on public support for the European Union (COVIDEU), Grant amount: €\u00A01.5 Million",
       "startDate": "2022-01",
       "endDate": "2025-12"
-    },
-    {
-      "name": "Einstein Foundation",
-      "summary": "Electoral trade-offs in post-industrial societies, Einstein BUA/\u200BOxford Fellowship for Tarik Abou-Chadi, Grant amount: €\u00A0499.620",
-      "startDate": "2023-06",
-      "endDate": "2026-05"
     },
     {
       "name": "German Research Foundation",
