@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-govlab",
           title: "GovLab",
-          description: "Humboldt-Governance Lab",
+          description: "Humboldt Governance Lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/govlab/";
