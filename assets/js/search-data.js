@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "",
+          description: "Below you can find a list of peer-reviewed articles I have (co-)​authored. There is also a list of books I have (co-)​authored or (co-)​edited.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
