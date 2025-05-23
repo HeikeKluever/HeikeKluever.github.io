@@ -67,7 +67,7 @@ nav_order: 5
   <p><strong>publications</strong><br>
     <ul>
       <li>Klüver, Heike (2020): <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/setting-the-party-agenda-interest-groups-voters-and-issue-attention/709B5D3A45BE0813A7972A122DF4AF90/share/757d7b5812fbf32ca2055105577ef5dc770bca9c">Setting the party agenda: Interest groups, voters and issue attention</a>, <em>British Journal of Political Science</em> 50(3): 979–1000.</li>
-      <li>Klüver, Heike (2019): <a href="https://www.tandfonline.com/doi/full/10.1080/01402382.2019.1662634">The survival of interest groups: Evidence from Germany</a>, <em>West European Politics</em> 43(7): 1436–54.</li>
+      <li>Klüver, Heike (2019): <a href="https://www.tandfonline.com/doi/full/10.1080/01402382.2019.1662634">The survival of interest groups: Evidence from Germany</a>, <em>West European Politics</em> 43(7): 1436–1454.</li>
       <li>Klüver, Heike and Elisabeth Zeidler (2019): <a href="http://journals.sagepub.com/eprint/yawfFSgqUzHDykGmae9M/full">Explaining interest group density across economic sectors: Evidence from Germany</a>, <em>Political Studies</em> 67(2): 459-478.</li>
       <li>Zeidler, Marie Elisabeth (2018): <a href="(https://www.springer.com/gp/book/9783658230913)">Explaining Bias in Membership Numbers: An Empirical Analysis of Noneconomic Interest Groups in Germany</a>, Wiesbaden: Springer VS.</li>
     <li>Klüver, Heike (2015): <a href="http://www.tandfonline.com/doi/pdf/10.1080/09644008.2015.1024238">Interest groups in the German Bundestag: Exploring the issue linkage between citizens and interest groups</a>, <em>German Politics</em> 24(2): 137-153.</li>
