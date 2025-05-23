@@ -12,6 +12,7 @@ node_modules/
 vendor
 .idea
 
+.Rproj
 .Rproj.user
 .Rhistory
 .RData
