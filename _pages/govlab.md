@@ -16,6 +16,6 @@ nav_order: 8
 
   <p>We have previously collaborated with the following partners:</p>
   <p align="center">
-    <img src="{{ '/assets/img/govlab_partner.png' | relative_url }}" alt="Humboldt GovLab Partners" style="max-width: 100%; height: auto;">
-  </p>
+    <img src="{{ '/assets/img/govlab_partner.png' | relative_url }}" alt="Humboldt GovLab Partners" style="max-width: 100%; height: auto;"></p>
+
 </div>
