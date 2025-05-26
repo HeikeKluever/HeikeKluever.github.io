@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-media",
           title: "media",
-          description: "",
+          description: "I regularly comment on my research in a wide variety of media outlets. Below you can find a selection.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/media/";
