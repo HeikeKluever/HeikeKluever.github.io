@@ -154,6 +154,12 @@
   "projects": [
     {
       "name": "German Research Foundation",
+      "summary": "COUNTERRIGHT; Princiapal Investigator, with Anselm Hager (Berlin), Grant amount: €\u00A0677,818",
+      "startDate": "2025-04",
+      "endDate": "2028-03"
+    },
+    {
+      "name": "German Research Foundation",
       "summary": "Renewal of Research Training Group 2458: The Dynamics of Demography, Democratic Processes and Public Policy (DYNAMICS), Speaker of the Research Training Group, Grant amount: €\u00A07.1 Million",
       "startDate": "2024-02",
       "endDate": "2024-03",
@@ -167,7 +173,7 @@
     },
     {
       "name": "German Research Foundation",
-      "summary": "Project Title: Interest Groups and the Ministerial Bureaucracy in germany: Studying lobbying success at the administrative stage (MINISTERIALLOBBY), Co-PI: Kai-Uwe Schnapp (University of Hamburg), Grant amount: €\u00A0363.808",
+      "summary": "Project Title: Interest Groups and the Ministerial Bureaucracy in germany: Studying lobbying success at the administrative stage (MINISTERIALLOBBY), Co-PI: Kai-Uwe Schnapp (University of Hamburg), Grant amount: €\u00A0363,808",
       "startDate": "2021-01",
       "endDate": "2025-12"
     },
@@ -186,49 +192,49 @@
     },
     {
       "name": "German Research Foundation",
-      "summary": "Excellence Cluster The Contestations of the Liberal Script (SCRIPTS), principal Investogator, Amount of lead subprojects since 2021: €\u00A0548.850",
+      "summary": "Excellence Cluster The Contestations of the Liberal Script (SCRIPTS), principal Investogator, Amount of lead subprojects since 2021: €\u00A0548,850",
       "startDate": "2019-01",
       "endDate": "2025-12"
     },
     {
       "name": "German Research Foundation",
-      "summary": "Project Title: Policy-Making in Coalition Governments: The Enactment of Coalition Agreements (COALITIONPOLICY), Cooperation Partner: Hanna Bäck (University of Lund), Grant amount: €\u00A0500.900",
+      "summary": "Project Title: Policy-Making in Coalition Governments: The Enactment of Coalition Agreements (COALITIONPOLICY), Cooperation Partner: Hanna Bäck (University of Lund), Grant amount: €\u00A0500,900",
       "startDate": "2018-10",
       "endDate": "2021-09"
     },
     {
       "name": "German Research Foundation",
-      "summary": "Project Title: Bringing policies back in: Explaining payoff allocation in coalition governments, Cooperation Partner: Hanna Bäck (University of Lund), Grant amount: €\u00A0334.394",
+      "summary": "Project Title: Bringing policies back in: Explaining payoff allocation in coalition governments, Cooperation Partner: Hanna Bäck (University of Lund), Grant amount: €\u00A0334,394",
       "startDate": "2014-10",
       "endDate": "2017-09"
     },
     {
       "name": "Internal Research Promotion, University of Bamberg",
-      "summary": "Project Title: Do governments keep their promises? A comparative analysis of the fulfilment of legislative pledges  Cooperation Partner: Radoslaw Zubek (University of Oxford), Grant amount: €\u00A01.882",
+      "summary": "Project Title: Do governments keep their promises? A comparative analysis of the fulfilment of legislative pledges  Cooperation Partner: Radoslaw Zubek (University of Oxford), Grant amount: €\u00A01,882",
       "startDate": "2014-01",
       "endDate": "2014-11"
     },
     {
       "name": "Fritz Thyssen Stiftung",
-      "summary": "Project Title: Interest representation in Germany: A longitudinal study of interst groups registered at the Bundestag, Grant amount: €\u00A0100.000",
+      "summary": "Project Title: Interest representation in Germany: A longitudinal study of interst groups registered at the Bundestag, Grant amount: €\u00A0100,000",
       "startDate": "2013-10",
       "endDate": "2015-09"
     },
     {
       "name": "American National Science Foundation",
-      "summary": "Project Title: Framing of Public Policy Debates in the European Union, together with Frank Baumgartner (University of North Carolina at Chapel Hill) and Christine Mahoney (University of Virgina), conducted in collaboration with the INTEREURO Project funded by the European Science Foundation, Grant amount:  $\u00A0300.000",
+      "summary": "Project Title: Framing of Public Policy Debates in the European Union, together with Frank Baumgartner (University of North Carolina at Chapel Hill) and Christine Mahoney (University of Virgina), conducted in collaboration with the INTEREURO Project funded by the European Science Foundation, Grant amount:  $\u00A0300,000",
       "startDate": "2011-08",
       "endDate": "2013-08"
     },
     {
       "name": "British Academy",
-      "summary": "Project Title: Citizens, interst groups and legislative activity: A longitudinal study of interst representation, Grant amount: £\u00A07.124",
+      "summary": "Project Title: Citizens, interst groups and legislative activity: A longitudinal study of interst representation, Grant amount: £\u00A07,124",
       "startDate": "2011-09",
       "endDate": "2012-08"
     },
     {
       "name": "Karin-Islinger-Foundation",
-      "summary": "Project Title: Interest Group Influence on Policy Formulation in the European Union, Grant amount: €\u00A01.000",
+      "summary": "Project Title: Interest Group Influence on Policy Formulation in the European Union, Grant amount: €\u00A01,000",
       "startDate": "2009-06",
       "endDate": "2010-08"
     }
