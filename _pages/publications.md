@@ -15,12 +15,12 @@ nav_order: 3
 
 <div class="publications">
 
-<h2>articles</h2>
+  <h2>books</h2>
 
-{% bibliography -f publications -q @article %}
+  {% bibliography -f publications -q @book %}
 
-<h2 style="margin-top: 80px;">books</h2>
+  <h2 style="margin-top: 80px;">articles</h2>
 
-{% bibliography -f publications -q @book %}
+  {% bibliography -f publications -q @article %}
 
 </div>
