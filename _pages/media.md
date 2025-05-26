@@ -2,12 +2,12 @@
 layout: page
 permalink: /media/
 title: media
-description: 
+description: I regularly comment on my research in a wide variety of media outlets. Below you can find a selection.
 nav: true
 nav_order: 7
 ---
 
-I regularly comment on my research in a wide variety of media outlets. Below you can find a selection.
+
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:1em; margin:1em 0; background-color:#f9f9f9;">
   <strong><a href="https://taz.de/Politikwissenschaftlerin-ueber-AfD-Umgang/!6037677/" target="_blank">
