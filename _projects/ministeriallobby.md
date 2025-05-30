@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MINISTERIALLOBBY
+title: MINISTERIAL​LOBBY
 description: "Interest Groups and the Ministerial Bureaucracy in Germany: Studying lobbying success at the administrative stage"
 img: /assets/img/projects/ministeriallobby.jpg
 importance: 4
