@@ -444,56 +444,56 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-coalition-policy",
+          title: 'COALITION​POLICY',
+          description: "Policy-Making in Coalition Governments: The Enactment of Coalition Agreements",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/coalitionpolicy/";
+            },},{id: "projects-far-right",
+          title: 'FAR RIGHT',
+          description: "Analyzing and Countering the Emergence of Far-Right Beliefs in the Wake of Migration",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/counterright/";
             },},{id: "projects-covideu",
           title: 'COVIDEU',
-          description: "",
+          description: "The Impact of COVID-19 on Public Support for the European Union",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/COVIDEU/";
+              window.location.href = "/projects/covideu/";
+            },},{id: "projects-dynamics",
+          title: 'DYNAMICS',
+          description: "Research Training Group „The Dynamics of Demography, Democratic Processes and Public Policy“",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dynamics/";
+            },},{id: "projects-framing-of-public-policy-debates",
+          title: 'Framing of Public Policy Debates',
+          description: "Affiliated with the INTEREURO Project Funded by the European Science Foundation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/framingdebates/";
+            },},{id: "projects-interest-representation-in-germany",
+          title: 'Interest Representation in Germany',
+          description: "A Longitudinal Study of Interest Groups Registered at the Bundestag",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/interestrepresentation/";
+            },},{id: "projects-citizen-interests-interest-groups-and-legislative-activity",
+          title: 'Citizen Interests, Interest Groups and Legislative Activity',
+          description: "A Longitudinal Study of Interest Representation in Germany",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/interestrepresentation2/";
+            },},{id: "projects-ministerial-lobby",
+          title: 'MINISTERIAL​LOBBY',
+          description: "Interest Groups and the Ministerial Bureaucracy in Germany: Studying lobbying success at the administrative stage",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ministeriallobby/";
+            },},{id: "projects-bringing-policies-back-in",
+          title: 'Bringing Policies Back In',
+          description: "Explaining Payoff Allocation in Coalition Governments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/payoffallocation/";
+            },},{id: "projects-scripts",
+          title: 'SCRIPTS',
+          description: "Excellence Cluster „The Contestations of the Liberal Script“",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/scripts/";
             },},{
         id: 'social-email',
         title: 'email',
