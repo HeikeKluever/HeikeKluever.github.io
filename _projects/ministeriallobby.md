@@ -22,7 +22,7 @@ importance: 4
 </div>
 
 {%- capture pubs_output -%}
-  {% bibliography --group_by none --query @*[project=ministeriallobby]* %}
+  {% bibliography --query @*[project=ministeriallobby]* %}
 {%- endcapture -%}
 
 {% if pubs_output contains "<li>" %}

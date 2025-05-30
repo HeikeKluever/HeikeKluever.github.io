@@ -23,7 +23,7 @@ importance: 5
 </div>
 
 {%- capture pubs_output -%}
-  {% bibliography --group_by none --query @*[project=coalitionpolicy]* %}
+  {% bibliography --query @*[project=coalitionpolicy]* %}
 {%- endcapture -%}
 
 {% if pubs_output contains "<li>" %}
