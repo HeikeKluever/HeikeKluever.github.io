@@ -3,7 +3,7 @@ layout: page
 title: COALITIONPOLICY
 description: "Policy-Making in Coalition Governments: The Enactment of Coalition Agreements"
 img: /assets/img/projects/coalitionpolicy.jpg
-importance: 1
+importance: 5
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
@@ -11,7 +11,7 @@ importance: 1
   <h2>Basics</h2>
     <ul>
       <li>Research grant awarded by the German Science Foundation (DFG)</li>
-      <li>Principal Investigator: Heike Klüver</li>
+      <li>Principal investigator: Heike Klüver</li>
       <li>Cooperation Partner: Hanna Bäck</li>
       <li>Funding volume: € 500,900</li>
       <li>Project period: 10/2018 - 09/2021</li>
