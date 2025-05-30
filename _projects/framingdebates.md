@@ -22,7 +22,7 @@ importance: 8
 </div>
 
 {%- capture pubs_output -%}
-  {% bibliography --group_by none --query @*[project=framingdebates]* %}
+  {% bibliography --query @*[project=framingdebates]* %}
 {%- endcapture -%}
 
 {% if pubs_output contains "<li>" %}

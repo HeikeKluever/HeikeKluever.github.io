@@ -26,7 +26,7 @@ importance: 2
 </div>
 
 {%- capture pubs_output -%}
-  {% bibliography --group_by none --query @*[project=covideu]* %}
+  {% bibliography --query @*[project=covideu]* %}
 {%- endcapture -%}
 
 {% if pubs_output contains "<li>" %}
