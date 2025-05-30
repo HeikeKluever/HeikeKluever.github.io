@@ -12,7 +12,6 @@ importance: 7
     <ul>
       <li>Research grant awarded by Fritz Thyssen Stiftung</li>
       <li>Principal investigator: Heike Klüver</li>
-      <li>Project investigator: Elisabeth Zeidler
       <li>Funding volume: € 100,000</li>
       <li>Project period: 10/2013 - 09/2015</li>
     </ul>
@@ -23,7 +22,7 @@ importance: 7
 </div>
 
 {%- capture pubs_output -%}
-  {% bibliography --group_by none --query @*[interestrepresentation=true]* %}
+  {% bibliography --group_by none --query @*[project=interestrepresentation]* %}
 {%- endcapture -%}
 
 {% if pubs_output contains "<li>" %}
