@@ -3,7 +3,7 @@ layout: page
 title: FAR RIGHT
 description: "Analyzing and Countering the Emergence of Far-Right Beliefs in the Wake of Migration"
 img: /assets/img/projects/counterright.jpg
-importance: 3
+importance: 1
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
@@ -11,7 +11,7 @@ importance: 3
   <h2>Basics</h2>
     <ul>
       <li>Research grant awarded by the German Science Foundation (DFG)</li>
-      <li>Principal Investigator: Anselm Hager and Heike Klüver</li>
+      <li>Principal unvestigators: Anselm Hager and Heike Klüver</li>
       <li>Funding volume:</li>
       <li>Project period:</li>
     </ul>
