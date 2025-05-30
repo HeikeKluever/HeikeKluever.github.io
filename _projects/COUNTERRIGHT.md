@@ -2,7 +2,7 @@
 layout: page
 title: FAR RIGHT
 description: "Analyzing and countering the emergence of far-right beliefs in the wake of migration"
-img: /assets/img/projects/ministeriallobby.jpg
+img: /assets/img/projects/counterright.jpg
 importance: 1
 ---
 
