@@ -14,6 +14,13 @@ importance: 1
 
   <p>Studying how the corona crisis has affected EU support is important for two reasons. First, our project will generate important insights into how the EU can be made more resilient in future crises. Questions of how to design policy instruments to address a crisis, how to coordinate policy responses among member states and how to communicate to the public are questions that are of utmost relevance to any future crisis. Our project will therefore allow us to provide policy-makers with evidence-based recommendations on how to maintain and even increase popular support for the EU in times of crises and to ultimately ensure the future viability of the EU. Second, studying public opinion towards the EU in response to COVID-19 provides a unique opportunity to theorize and empirically test expectations on what drives EU support. In contrast to previous crises, the pandemic has hit all European countries, albeit to a different extent and at different time points. While all countries took extraordinary measures, there is important variation in the policy instruments and the responses by political actors across EU countries and over time. The pandemic therefore constitutes an opportunity that allows for applying innovative causal inference designs which promise important insights for better understanding what drives EU support.</p>
 
+  <ul>
+    <li>Research grant awarded by the VolkswagenStiftung</li>
+    <li>Principal Investigator: Heike Klüver</li>
+    <li>Funding volume: € 1,494,800</li>
+    <li>Project period: 01/2022 - 12/2025</li>
+  </ul>
+
 </div>
 
 {%- capture pubs_output -%}
