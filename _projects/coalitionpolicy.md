@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COALITIONPOLICY
+title: COALITION​POLICY
 description: "Policy-Making in Coalition Governments: The Enactment of Coalition Agreements"
 img: /assets/img/projects/coalitionpolicy.jpg
 importance: 5
