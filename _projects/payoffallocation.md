@@ -23,7 +23,7 @@ importance: 6
 </div>
 
 {%- capture pubs_output -%}
-  {% bibliography --group_by none --query @*[payoffallocation=true]* %}
+  {% bibliography --group_by none --query @*[project=payoffallocation]* %}
 {%- endcapture -%}
 
 {% if pubs_output contains "<li>" %}

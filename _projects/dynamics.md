@@ -22,7 +22,7 @@ importance: 3
 </div>
 
 {%- capture pubs_output -%}
-  {% bibliography --group_by none --query @*[dynamics=true]* %}
+  {% bibliography --group_by none --query @*[project=dynamics]* %}
 {%- endcapture -%}
 
 {% if pubs_output contains "<li>" %}

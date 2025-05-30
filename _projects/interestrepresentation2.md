@@ -22,7 +22,7 @@ importance: 9
 </div>
 
 {%- capture pubs_output -%}
-  {% bibliography --group_by none --query @*[interestrepresentation2=true]* %}
+  {% bibliography --group_by none --query @*[project=interestrepresentation2]* %}
 {%- endcapture -%}
 
 {% if pubs_output contains "<li>" %}
