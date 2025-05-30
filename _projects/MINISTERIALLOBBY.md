@@ -3,7 +3,7 @@ layout: page
 title: MINISTERIALLOBBY
 description: "Interest Groups and the Ministerial Bureaucracy in Germany: Studying lobbying success at the administrative stage"
 img: /assets/img/projects/ministeriallobby.jpg
-importance: 1
+importance: 4
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
