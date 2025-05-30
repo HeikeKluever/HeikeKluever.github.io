@@ -16,14 +16,19 @@ importance: 1
 
 </div>
 
-{% assign relevant_pubs = site.bibliography | where:"covideu", true %}
-{% if relevant_pubs.size > 0 %}
-<div>
-  <h2>
-    <a href="{{ '/publications/' | relative_url }}" style="color: inherit">related publications</a>
-  </h2>
-  <div class="publications">
-    {% bibliography --group_by none --query @*[covideu=true]* %}
+{%- capture pubs_output -%}
+  {% bibliography --group_by none --query @*[covideu=true]* %}
+{%- endcapture -%}
+
+{% if pubs_output contains "<li>" %}
+  <div>
+    <h2>
+      <a href="{{ '/publications/' | relative_url }}" style="color: inherit">
+        related publications
+      </a>
+    </h2>
+    <div class="publications">
+      {{ pubs_output }}
+    </div>
   </div>
-</div>
 {% endif %}
