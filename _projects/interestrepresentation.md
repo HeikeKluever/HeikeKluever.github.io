@@ -3,7 +3,7 @@ layout: page
 title: Interest Representation in Germany
 description: "A Longitudinal Study of Interest Groups Registered at the Bundestag"
 img: 
-importance: 7
+importance: 8
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">

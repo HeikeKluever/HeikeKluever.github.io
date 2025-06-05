@@ -3,7 +3,7 @@ layout: page
 title: DYNAMICS
 description: "Research Training Group “The Dynamics of Demography, Democratic Processes and Public Policy”"
 img: /assets/img/projects/project_dynamics.jpg
-importance: 3
+importance: 4
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">

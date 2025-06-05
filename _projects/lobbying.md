@@ -3,7 +3,7 @@ layout: page
 title: LOBBYING
 description: "Interest Groups and the Ministerial Bureaucracy in Germany: Studying Lobbying Success at the Administrative Stage"
 img: /assets/img/projects/project_lobbying.jpg
-importance: 4
+importance: 5
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
