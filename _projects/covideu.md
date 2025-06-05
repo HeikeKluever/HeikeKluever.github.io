@@ -16,7 +16,7 @@ importance: 2
       <li>Principal investigator: Heike Klüver</li>
       <li>Project partners: <a href="https://hobolt.com/">Sara Hobolt</a>, <a href="https://theresakuhn.eu/">Theresa Kuhn</a>, <a href="https://tonirodon.cat/">Toni Rodon</a>, <a href="http://coin.wne.uw.edu.pl/mkrawczyk/">Michal Krawczyk</a></li>
       <li>Funding volume: € 1,000,000</li>
-      <li>Project period: 01/2021 - 12/2024</li>
+      <li>Project period: 01/2021 - 12/2025</li>
       <li>Project website: <a href="https://sites.google.com/view/covideuproject/home">The COVIDEU Project</a></li>
     </ul>
 
