@@ -13,7 +13,7 @@ importance: 4
   </h2>
     <ul>
       <li>Research grant awarded by the German Science Foundation (DFG)</li>
-      <li>Principal investigator: Heike Klüver and Kai-Uwe Schnapp</li>
+      <li>Principal investigators: Heike Klüver and Kai-Uwe Schnapp</li>
       <li>Funding volume: € 363,800</li>
       <li>Project period: 09/2021 - 08/2024</li>
     </ul>
