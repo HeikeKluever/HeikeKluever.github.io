@@ -448,7 +448,7 @@ ninja.data = [{
           title: 'COALITION AGREEMENTS',
           description: "Explaining Payoff Allocation in Coalition Governments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/coalition_agreements/";
+              window.location.href = "/projects/coalitionagreements/";
             },},{id: "projects-coalition-policy",
           title: 'COALITION​POLICY',
           description: "Policy-Making in Coalition Governments: The Enactment of Coalition Agreements",
@@ -488,7 +488,7 @@ ninja.data = [{
           title: 'Party Competition',
           description: "Lorem ipsum dolor",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/party_competition/";
+              window.location.href = "/projects/partycompetition/";
             },},{id: "projects-scripts",
           title: 'SCRIPTS',
           description: "Excellence Cluster “The Contestations of the Liberal Script”",
