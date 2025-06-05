@@ -2,13 +2,15 @@
 layout: page
 title: DYNAMICS
 description: "Research Training Group “The Dynamics of Demography, Democratic Processes and Public Policy”"
-img: /assets/img/projects/dynamics.jpg
+img: /assets/img/projects/project_dynamics.jpg
 importance: 3
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
 
-  <h2>Basics</h2>
+  <h2>Basics
+    <img src="{{ '/assets/img/projects/logo_dfg.png' | relative_url }}" alt="logo_dfg" style="float: right; margin: 0 10px 10px 0; border-radius: 10px; max-width: 100%; height: 40px; width: auto;">
+  </h2>
     <ul>
       <li>Research grant awarded by the German Science Foundation (DFG)</li>
       <li>Principal investigator:</li>
