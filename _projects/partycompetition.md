@@ -2,8 +2,8 @@
 layout: page
 title: Party Competition
 description: "Lorem ipsum dolor"
-img: 
-importance: 9
+img: /assets/img/projects/project_partycompetition.jpg
+importance: 1
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
