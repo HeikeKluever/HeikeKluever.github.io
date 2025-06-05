@@ -3,7 +3,7 @@ layout: page
 title: Framing of Public Policy Debates
 description: "Affiliated with the INTEREURO Project Funded by the European Science Foundation"
 img: 
-importance: 8
+importance: 9
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">

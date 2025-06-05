@@ -3,7 +3,7 @@ layout: page
 title: COVIDEU
 description: "The Impact of COVID-19 on Public Support for the European Union"
 img: /assets/img/projects/project_covideu.jpg
-importance: 2
+importance: 3
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">

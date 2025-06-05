@@ -3,7 +3,7 @@ layout: page
 title: FAR RIGHT
 description: "Analyzing and Countering the Emergence of Far-Right Beliefs in the Wake of Migration"
 img: /assets/img/projects/project_counterright.jpg
-importance: 1
+importance: 2
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">

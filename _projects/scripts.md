@@ -3,7 +3,7 @@ layout: page
 title: SCRIPTS
 description: "Excellence Cluster “The Contestations of the Liberal Script”"
 img: assets/img/projects/project_scripts.jpg
-importance: 3
+importance: 4
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
