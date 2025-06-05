@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DYNAMICS
-description: "Research Training Group „The Dynamics of Demography, Democratic Processes and Public Policy“"
+description: "Research Training Group “The Dynamics of Demography, Democratic Processes and Public Policy”"
 img: /assets/img/projects/dynamics.jpg
 importance: 3
 ---

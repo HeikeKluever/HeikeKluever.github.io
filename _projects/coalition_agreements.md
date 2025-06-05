@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bringing Policies Back In
+title: COALITION AGREEMENTS
 description: "Explaining Payoff Allocation in Coalition Governments"
 img: 
 importance: 6
@@ -23,7 +23,7 @@ importance: 6
 </div>
 
 {%- capture pubs_output -%}
-  {% bibliography --query @*[project=payoffallocation]* %}
+  {% bibliography --query @*[project=coalition_agreements]* %}
 {%- endcapture -%}
 
 {% if pubs_output contains "<li>" %}

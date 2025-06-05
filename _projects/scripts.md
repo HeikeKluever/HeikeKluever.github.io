@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SCRIPTS
-description: "Excellence Cluster „The Contestations of the Liberal Script“"
+description: "Excellence Cluster “The Contestations of the Liberal Script”"
 img: assets/img/projects/scripts.jpg
 importance: 3
 ---
