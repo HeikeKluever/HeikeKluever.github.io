@@ -444,7 +444,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-coalition-policy",
+          section: "News",},{id: "projects-coalition-agreements",
+          title: 'COALITION AGREEMENTS',
+          description: "Explaining Payoff Allocation in Coalition Governments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/coalition_agreements/";
+            },},{id: "projects-coalition-policy",
           title: 'COALITION​POLICY',
           description: "Policy-Making in Coalition Governments: The Enactment of Coalition Agreements",
           section: "Projects",handler: () => {
@@ -461,7 +466,7 @@ ninja.data = [{
               window.location.href = "/projects/covideu/";
             },},{id: "projects-dynamics",
           title: 'DYNAMICS',
-          description: "Research Training Group „The Dynamics of Demography, Democratic Processes and Public Policy“",
+          description: "Research Training Group “The Dynamics of Demography, Democratic Processes and Public Policy”",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dynamics/";
             },},{id: "projects-framing-of-public-policy-debates",
@@ -474,24 +479,19 @@ ninja.data = [{
           description: "A Longitudinal Study of Interest Groups Registered at the Bundestag",
           section: "Projects",handler: () => {
               window.location.href = "/projects/interestrepresentation/";
-            },},{id: "projects-citizen-interests-interest-groups-and-legislative-activity",
-          title: 'Citizen Interests, Interest Groups and Legislative Activity',
-          description: "A Longitudinal Study of Interest Representation in Germany",
+            },},{id: "projects-lobbying",
+          title: 'LOBBYING',
+          description: "Interest Groups and the Ministerial Bureaucracy in Germany: Studying Lobbying Success at the Administrative Stage",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/interestrepresentation2/";
-            },},{id: "projects-ministerial-lobby",
-          title: 'MINISTERIAL​LOBBY',
-          description: "Interest Groups and the Ministerial Bureaucracy in Germany: Studying lobbying success at the administrative stage",
+              window.location.href = "/projects/lobbying/";
+            },},{id: "projects-party-competition",
+          title: 'Party Competition',
+          description: "Lorem ipsum dolor",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/ministeriallobby/";
-            },},{id: "projects-bringing-policies-back-in",
-          title: 'Bringing Policies Back In',
-          description: "Explaining Payoff Allocation in Coalition Governments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/payoffallocation/";
+              window.location.href = "/projects/party_competition/";
             },},{id: "projects-scripts",
           title: 'SCRIPTS',
-          description: "Excellence Cluster „The Contestations of the Liberal Script“",
+          description: "Excellence Cluster “The Contestations of the Liberal Script”",
           section: "Projects",handler: () => {
               window.location.href = "/projects/scripts/";
             },},{
