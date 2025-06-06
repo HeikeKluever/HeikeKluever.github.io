@@ -1,28 +1,24 @@
 ---
 layout: page
-title: Party Competition
-description: "Lorem ipsum dolor"
-img: /assets/img/projects/project_partycompetition.jpg
-importance: 1
+title: PARTY COMPETITION
+description: ""
+img: 
+importance: 6
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
 
-  <h2>Basics</h2>
-    <ul>
-      <li>Lorem</li>
-      <li>ipsum</li>
-      <li>dolor</li>
-      <li>sit</li>
-    </ul>
-
-  <h2>Project description</h2>
-    <p>Lorem ipsum dolor.</p>
+  <h2>
+    Summary
+  </h2>
+    <p>
+      This collaborative research project between Heike Klüver and Jae-Jae Spoon investigates the strategic behavior of political parties within European multiparty systems, focusing on how parties respond to electoral incentives, coalition dynamics, and voter preferences. The project examines how electoral contexts influence party competition, revealing that parties adjust their issue emphasis and positioning based on the institutional environment and voter polarization. It also explores the impact of coalition participation on party responsiveness and electoral outcomes, highlighting the challenges junior coalition partners face in maintaining voter support. Additionally, the research delves into the phenomenon of party convergence and its role in the decline of mainstream parties, demonstrating that ideological similarity among major parties can lead voters to seek alternatives on the political fringes. Through a combination of quantitative analyses and comparative case studies, this project contributes to a deeper understanding of the evolving dynamics of party competition and voter behavior in contemporary European politics.
+    </p>
 
 </div>
 
 {%- capture pubs_output -%}
-  {% bibliography --query @*[project=party_competition]* %}
+  {% bibliography --query @*[project_partycompetition=true]* %}
 {%- endcapture -%}
 
 {% if pubs_output contains "<li>" %}

@@ -1,30 +1,35 @@
 ---
 layout: page
 title: LOBBYING
-description: "Interest Groups and the Ministerial Bureaucracy in Germany: Studying Lobbying Success at the Administrative Stage"
-img: /assets/img/projects/project_lobbying.jpg
-importance: 5
+description: ""
+img: 
+importance: 8
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
 
-  <h2>Basics
-    <img src="{{ '/assets/img/projects/logo_dfg.png' | relative_url }}" alt="logo_dfg" style="float: right; margin: 0 10px 10px 0; border-radius: 10px; max-width: 100%; height: 40px; width: auto;">
+  <h2>
+    Summary
+    <img src="{{ '/assets/img/projects/logo_dfg.png' | relative_url }}" alt="logo_dfg" style="float: right; margin: 0 0 10px 10px; border-radius: 10px; max-width: 100%; height: auto; width: 100px;">
+    <br style = "clear: right;">
+    <img src="{{ '/assets/img/projects/logo_fts.png' | relative_url }}" alt="logo_fts" style="float: right; margin: 0 0 10px 10px; border-radius: 10px; max-width: 100%; height: auto; width: 100px;">
+    <br style = "clear: right;">
+    <img src="{{ '/assets/img/projects/logo_nsf.png' | relative_url }}" alt="logo_nsf" style="float: right; margin: 0 0 10px 10px; border-radius: 10px; max-width: 100%; height: auto; width: 100px;">
   </h2>
-    <ul>
-      <li>Research grant awarded by the German Science Foundation (DFG)</li>
-      <li>Principal investigators: Heike Klüver and Kai-Uwe Schnapp</li>
-      <li>Funding volume: € 363,800</li>
-      <li>Project period: 09/2021 - 08/2024</li>
-    </ul>
-
-  <h2>Project description</h2>
-    <p>Ministries are central players in German policy-making as one of their major tasks is drafting legislative proposals. It is therefore no surprise that they are an important lobbying target for interest groups that seek to influence legislation in Germany. Even though ministries regularly interact with interest groups, there is no systematic research on the extent to which interest groups are able to successfully lobby the drafting of legislative proposals in Germany. In this research project, we therefore aim to close this important gap in the literature by pursuing two major objectives. First, we will develop a comprehensive theoretical framework in order to explain lobbying success. We conceptualize lobbying as an exchange process in which the minister, as the central political actor in a ministerial department, trades influence on policies for information, public, especially electoral support, and economic resources, while bureaucrats trade openness first and foremost for information. We expect that interest groups that can deliver these goods are in a particularly good position to successfully lobby policy-making. In addition, we argue that the decisive level of analysis is not an individual interest group. Instead, lobbying success can only be understood if we take into account the aggregated supply of these goods by issue-specific lobbying coalitions. Finally, we theorize that the issue context affects the exchange relationship as the effect of information supply is expected to increase with the complexity of policy proposals. Second, we will test our theoretical expectations by compiling a new dataset on the lobbying success of interest groups with regard to 50 selected policy proposals introduced to the Bundestag throughout the year 2019. We will measure the preferences of interest groups and the location of the policy output before and after the agenda-setting and policy formulation stage, in order to draw conclusions about the winners and losers of decision-making processes at the ministerial stage. Our findings will have major implications for our understanding of policy-making and political representation in Germany.</p>
+    <p>
+      This research project offers a comprehensive investigation into the functioning of interest representation and lobbying, focusing on both the German and European contexts. It brings together three interrelated strands of research to better understand why some interest groups wield significant political influence while others do not, how lobbying is structured and regulated, and why interest group mobilization varies across policy domains. The first strand explores the causes and consequences of lobbying and lobbying regulation in Germany. Using a combination of experimental, observational, and data-driven methods, it examines public preferences for lobbying transparency, the effects of disclosure rules on candidate emergence and voter behavior, and the professional backgrounds of lobbyists by linking LinkedIn data with the German lobbying register. It also investigates the democratic implications of “revolving door” lobbying and evaluates the effectiveness of regulatory mechanisms such as cooling-off periods. The second strand addresses the puzzle of why some policy sectors are densely populated by interest groups while others remain underrepresented. It develops a theoretical framework tailored to the German political system—building on models developed for the U.S.—and tests its predictions using a novel longitudinal dataset of registered interest groups in Germany from 1974 to 2014. This approach allows for a systematic analysis of the political, institutional, and economic factors that shape patterns of group mobilization. The third strand shifts the analytical lens to the European Union and investigates the conditions under which interest groups are able to influence EU policy-making. Drawing on an original and extensive dataset—including text analysis of European Commission consultations, a large-scale survey of interest groups, and EU legislative data—this research conceptualizes lobbying as an exchange relationship in which European institutions trade influence for valuable resources: information, citizen support, and economic power. Crucially, it demonstrates that lobbying success depends not only on individual groups but also on the capacity of issue-specific lobbying coalitions to collectively provide these resources.
+    </p>
+    <p>
+      Funding is provided by the German Science Foundation (DFG), the Fritz Thyssen Foundation and the U.S. National Science Foundation. Collaborators are 
+        <a href="https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/schnapp/team/schnapp-kai-uwe.html">Kai-Uwe Schnapp</a>, 
+        <a href="https://hartmannfelix.github.io/">Felix Hartmann</a> and 
+        <a href="https://www.janstuckatz.com/">Jan Stuckatz</a>.
+    </p>
 
 </div>
 
 {%- capture pubs_output -%}
-  {% bibliography --query @*[project=ministeriallobby]* %}
+  {% bibliography --query @*[project_lobbying=true]* %}
 {%- endcapture -%}
 
 {% if pubs_output contains "<li>" %}
