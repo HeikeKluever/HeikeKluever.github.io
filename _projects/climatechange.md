@@ -2,24 +2,27 @@
 layout: page
 title: POLITICS OF CLIMATE CHANGE
 description: ""
-img: 
+img: assets/img/projects/project_climatechange.jpg
 importance: 7
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
 
+  <div style="float: right; display: flex; flex-direction: column; align-items: flex-end; gap: 10px; margin-left: 10px;">
+      <img src="{{ '/assets/img/projects/logo_scripts.png' | relative_url }}" alt="logo_scripts" style="width: 20vw; max-width: 125px; height: auto; border-radius: 10px;">
+      <img src="{{ '/assets/img/projects/logo_vws.png' | relative_url }}" alt="logo_vws" style="width: 20vw; max-width: 125px; height: auto; border-radius: 10px;">
+  </div>
+
   <h2>
     Summary
-    <img src="{{ '/assets/img/projects/logo_scripts.png' | relative_url }}" alt="logo_scripts" style="float: right; margin: 0 0 10px 10px; border-radius: 10px; max-width: 100%; height: auto; width: 100px;">
-    <br style = "clear: right;">
-    <img src="{{ '/assets/img/projects/logo_vws.png' | relative_url }}" alt="logo_vws" style="float: right; margin: 0 0 10px 10px; border-radius: 10px; max-width: 100%; height: auto; width: 100px;">
   </h2>
-    <p>
-      A summary will be added in due time.
-    </p>
-    <p>
-      Funding is provided by SCRIPTS and the VolkswagenStiftung.
-    </p>
+  
+  <p>
+    A summary will be added in due time.
+  </p>
+  <p>
+    Funding is provided by SCRIPTS and the VolkswagenStiftung.
+  </p>
 
 </div>
 
