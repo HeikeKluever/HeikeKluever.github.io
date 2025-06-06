@@ -2,6 +2,13 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
+      <a class="navbar-brand pl-0" href="https://www.hu-berlin.de/en">
+        <img
+          src="{{ '/assets/img/hu_logo.png' | relative_url }}"
+          alt="{{ site.title }} HU-Logo"
+          style="max-height: 65px; width: auto; margin-right: 0.5rem;"
+        >
+      </a>
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title == 'blank' %}
