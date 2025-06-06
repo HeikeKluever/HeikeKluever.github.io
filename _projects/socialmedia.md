@@ -2,7 +2,7 @@
 layout: page
 title: SOCIAL MEDIA & YOUNG VOTERS
 description: ""
-img: 
+img: assets/img/projects/project_socialmedia.jpg
 importance: 5
 ---
 
@@ -11,9 +11,10 @@ importance: 5
   <h2>
     Summary
   </h2>
-    <p>
-      A summary will be added in due time.
-    </p>
+  
+  <p>
+    A summary will be added in due time.
+  </p>
 
 </div>
 
