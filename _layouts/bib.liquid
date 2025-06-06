@@ -203,7 +203,7 @@
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">url</a>
       {% endif %}
-      {% if entry.type == "booka" and entry.url %}
+      {% if entry.type == "book" and entry.url %}
         <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">url</a>
       {% endif %}
       {% if entry.arxiv %}
