@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /workingpapers/
-title: working papers
+title: working papers
 description:
 nav: true
 nav_order: 4
