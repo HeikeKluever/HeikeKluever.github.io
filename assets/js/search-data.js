@@ -103,56 +103,56 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-coalition-agreements",
-          title: 'COALITION AGREEMENTS',
-          description: "Explaining Payoff Allocation in Coalition Governments",
+          section: "News",},{id: "projects-politics-of-climate-change",
+          title: 'POLITICS OF CLIMATE CHANGE',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/coalitionagreements/";
-            },},{id: "projects-coalition-policy",
-          title: 'COALITION​POLICY',
-          description: "Policy-Making in Coalition Governments: The Enactment of Coalition Agreements",
+              window.location.href = "/projects/climatechange/";
+            },},{id: "projects-coalition-governments",
+          title: 'COALITION GOVERNMENTS',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/coalitionpolicy/";
-            },},{id: "projects-far-right",
-          title: 'FAR RIGHT',
-          description: "Analyzing and Countering the Emergence of Far-Right Beliefs in the Wake of Migration",
+              window.location.href = "/projects/coalitiongovernments/";
+            },},{id: "projects-counterright",
+          title: 'COUNTERRIGHT',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/counterright/";
-            },},{id: "projects-covideu",
-          title: 'COVIDEU',
-          description: "The Impact of COVID-19 on Public Support for the European Union",
+            },},{id: "projects-covid",
+          title: 'COVID',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/covideu/";
-            },},{id: "projects-dynamics",
-          title: 'DYNAMICS',
-          description: "Research Training Group “The Dynamics of Demography, Democratic Processes and Public Policy”",
+              window.location.href = "/projects/covid/";
+            },},{id: "projects-gender-amp-politics",
+          title: 'GENDER &amp;amp; POLITICS',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/dynamics/";
-            },},{id: "projects-framing-of-public-policy-debates",
-          title: 'Framing of Public Policy Debates',
-          description: "Affiliated with the INTEREURO Project Funded by the European Science Foundation",
+              window.location.href = "/projects/genderpolitics/";
+            },},{id: "projects-hate-crimes",
+          title: 'HATE CRIMES',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/framingdebates/";
-            },},{id: "projects-interest-representation-in-germany",
-          title: 'Interest Representation in Germany',
-          description: "A Longitudinal Study of Interest Groups Registered at the Bundestag",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/interestrepresentation/";
+              window.location.href = "/projects/hatecrimes/";
             },},{id: "projects-lobbying",
           title: 'LOBBYING',
-          description: "Interest Groups and the Ministerial Bureaucracy in Germany: Studying Lobbying Success at the Administrative Stage",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lobbying/";
             },},{id: "projects-party-competition",
-          title: 'Party Competition',
-          description: "Lorem ipsum dolor",
+          title: 'PARTY COMPETITION',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/partycompetition/";
-            },},{id: "projects-scripts",
-          title: 'SCRIPTS',
-          description: "Excellence Cluster “The Contestations of the Liberal Script”",
+            },},{id: "projects-the-rise-of-the-far-right",
+          title: 'THE RISE OF THE FAR RIGHT',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/scripts/";
+              window.location.href = "/projects/risefarright/";
+            },},{id: "projects-social-media-amp-young-voters",
+          title: 'SOCIAL MEDIA &amp;amp; YOUNG VOTERS',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/socialmedia/";
             },},{
         id: 'social-email',
         title: 'email',
