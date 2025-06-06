@@ -8,7 +8,7 @@ importance: 9
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
 
-  <div style="float: right; display: flex; flex-direction: column; align-items: flex-end; gap: 10px; margin-left: 10px;">
+  <div style="float: right; display: flex; flex-direction: column; align-items: flex-end; gap: 10px; margin-left: 10px; margin-bottom: 10px;">
       <img src="{{ '/assets/img/projects/logo_dfg.png' | relative_url }}" alt="logo_dfg" style="width: 20vw; max-width: 125px; height: auto; border-radius: 10px;">
   </div>
 
