@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: Below you can find a list of books I have (co-)​authored or (co-)​edited. There is also a list of peer-reviewed articles I have (co-)​authored.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <!-- _pages/publications.md -->
