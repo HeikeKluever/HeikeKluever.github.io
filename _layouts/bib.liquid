@@ -206,6 +206,9 @@
       {% if entry.type == "book" and entry.url %}
         <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">url</a>
       {% endif %}
+      {% if entry.data %}
+        <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button">data</a>
+      {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
