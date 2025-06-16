@@ -16,7 +16,7 @@ nav_order: 9
     <li>Political Methodology</li>
   </ul>
 
-  <p>Please check out my <a href="https://www.sowi.hu-berlin.de/de/lehrbereiche/politischesverhalten">chair's website </a> with more specific details on the coruses I have been offering at Humboldt-Universität zu Berlin.</p>
+  <p>Please check out my <a href="https://www.sowi.hu-berlin.de/de/lehrbereiche/politischesverhalten">chair's website </a> with more specific details on the courses I have been offering at Humboldt-Universität zu Berlin.</p>
 
   <p>In addition I have been organizing the <a href="https://ecpr.eu/Events/AffiliatedEventDetails.aspx?AffiliatedEventID=62">ECPR Summer School on Interest Group Politics </a> at the University of Hamburg in July 2015 and the <a href="http://standinggroups.ecpr.eu/parliaments/?page_id=53">ECPR Summer School on Parliaments </a> at Humboldt-Universität zu Berlin in August 2017.</p>
 
