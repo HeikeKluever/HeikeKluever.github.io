@@ -36,3 +36,14 @@ jobs:
         with:
           name: compiled-document
           path: assets/pdf/_heikekluever_cv.pdf
+      
+      # 4. Commit and push generated PDF to repository
+      - name: Commit and push PDF
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add assets/pdf/_heikekluever_cv.pdf
+          git commit -m "Update compiled CV PDF"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
