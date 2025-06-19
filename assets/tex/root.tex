@@ -14,22 +14,6 @@
 ]{biblatex}
 \addbibresource{/github/workspace/_bibliography/publications.bib}
 
-% ==== Define filters for later grouping ====
-\defbibfilter{books}{type=book}
-\defbibfilter{articles}{type=article}
-\defbibfilter{miscitems}{type=misc}
-
-% ==== Counters to detect empty categories ====
-\usepackage{etoolbox}
-\newcounter{cntbooks}
-\newcounter{cntarticles}
-\newcounter{cntmisc}
-\AtEveryBibitem{%
-  \ifentrytype{book}{\stepcounter{cntbooks}}{}%
-  \ifentrytype{article}{\stepcounter{cntarticles}}{}%
-  \ifentrytype{misc}{\stepcounter{cntmisc}}{}%
-}
-
 % ==== Tuning bibliography line breaks ====
 \AtBeginBibliography{%
   \sloppy
@@ -41,37 +25,7 @@
 % Pull in all entries once
 \nocite{*}
 
-% ===== Books =====
-\section*{Books}
-\ifnum\value{cntbooks}>0
-  \printbibliography[
-    filter=books,
-    heading=none
-  ]
-\else
-  
-\fi
-
-% ===== Articles =====
-\section*{Articles}
-\ifnum\value{cntarticles}>0
-  \printbibliography[
-    filter=articles,
-    heading=none
-  ]
-\else
-  
-\fi
-
-% ===== Working Papers =====
-\section*{Working Papers}
-\ifnum\value{cntmisc}>0
-  \printbibliography[
-    filter=miscitems,
-    heading=none
-  ]
-\else
-  
-\fi
+% Print the bibliography
+\printbibliography
 
 \end{document}
