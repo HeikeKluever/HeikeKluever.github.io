@@ -20,13 +20,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Build LaTeX document
+      - name: Compile with LuaLaTeX via latexmk
         uses: dante-ev/latex-action@latest
         with:
           root_file: assets/tex/root.tex
-          compiler: latexmk
-          args: -pdf -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
-          extra_system_packages: "biber"
+          compiler: lualatex
+          args: -interaction=nonstopmode -file-line-error
           
       - name: Move PDF to assets/pdf
         run: |
