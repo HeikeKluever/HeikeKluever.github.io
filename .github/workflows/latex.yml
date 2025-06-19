@@ -25,9 +25,13 @@ jobs:
         with:
           root_file: assets/tex/root.tex
           compiler: latexmk
-          args: -pdf -outdir=assets/pdf -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
+          args: -pdf -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
           extra_system_packages: "biber"
-      
+          
+      - name: Move PDF to assets/pdf
+      run: |
+        mv assets/tex/_heikekluever_cv.pdf assets/pdf/_heikekluever_cv.pdf
+    
       - name: Commit and push PDF
         run: |
           git config --global user.name "GitHub Actions"
