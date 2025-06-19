@@ -32,7 +32,7 @@ nav_order: 8
 
   <p>We develop evidence-based recommendations and conduct evaluations for decision-makers in politics, public administration and civil society to address urgent societal issues.</p>
 
-  <p>For more information, please visit the <a href="https://hu-govlab.de/en">Humboldt Governance Lab website</a>.</p>
+  <p>For more information, please visit the <a href="https://hu-govlab.de/en">Humboldt Governance Lab's website</a>.</p>
 
   <p>We have previously collaborated with the following partners:</p>
   <p align="center">
