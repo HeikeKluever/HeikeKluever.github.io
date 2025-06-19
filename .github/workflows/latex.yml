@@ -18,7 +18,7 @@ jobs:
       # 1. Check out your repo
       - uses: actions/checkout@v4
 
-      # 2. Compile your LaTeX document (with biblatex support)
+      # 2. Compile LaTeX document (with biblatex support)
       - uses: dante-ev/latex-action@v3
         with:
           root_file: assets/tex/root.tex
@@ -29,13 +29,6 @@ jobs:
             -halt-on-error
             -jobname=_heikekluever_cv
             -output-directory=assets/pdf
-
-      # 3. Upload the generated PDF
-      - name: Upload PDF
-        uses: actions/upload-artifact@v4
-        with:
-          name: compiled-document
-          path: assets/pdf/_heikekluever_cv.pdf
       
       # 4. Commit and push generated PDF to repository
       - name: Commit and push PDF
@@ -43,7 +36,7 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add assets/pdf/_heikekluever_cv.pdf
-          git commit -m "Update compiled CV PDF"
+          git commit -m "update compiled CV PDF"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
