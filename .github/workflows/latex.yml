@@ -23,9 +23,10 @@ jobs:
       - name: Compile with LuaLaTeX via latexmk
         uses: dante-ev/latex-action@latest
         with:
-          root_file: assets/tex/root.tex
+          root_file: root.tex
           compiler: latexmk
           args: -lualatex -pdf -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
+          working_directory: assets/tex
           extra_system_packages: "biber"
           
       - name: Move PDF to assets/pdf
