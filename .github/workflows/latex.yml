@@ -29,8 +29,8 @@ jobs:
           extra_system_packages: "biber"
           
       - name: Move PDF to assets/pdf
-      run: |
-        mv assets/tex/_heikekluever_cv.pdf assets/pdf/_heikekluever_cv.pdf
+        run: |
+          mv assets/tex/_heikekluever_cv.pdf assets/pdf/_heikekluever_cv.pdf
     
       - name: Commit and push PDF
         run: |
