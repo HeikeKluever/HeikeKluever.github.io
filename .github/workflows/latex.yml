@@ -29,7 +29,7 @@ jobs:
           
       - name: Move PDF to assets/pdf
         run: |
-          mv assets/tex/_heikekluever_cv.pdf assets/pdf/_heikekluever_cv.pdf
+          mv assets/tex/root.pdf assets/pdf/_heikekluever_cv.pdf
     
       - name: Commit and push PDF
         run: |
