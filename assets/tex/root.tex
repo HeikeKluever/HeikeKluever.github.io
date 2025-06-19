@@ -1,27 +1,47 @@
 \documentclass[12pt,a4paper]{article}
 
 %====================
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp}
+
 % Use biblatex with Biber backend
 \usepackage[backend=biber, style=authoryear, sorting=nyt, bibencoding=utf8]{biblatex}
 
 % Point to your master .bib file
 \addbibresource{/github/workspace/_bibliography/publications.bib}
 
+\defbibfilter{books}{
+  type=book
+}
+\defbibfilter{articles}{
+  type=article
+}
+\defbibfilter{miscitems}{
+  type=misc
+}
+
+% Begin document
 \begin{document}
 \nocite{*}
 
 
-\begin{refsection}
-  \printbibliography[type=book, heading=none]
-\end{refsection}
+\printbibliography[
+  filter=books,
+  heading=subbibliography,
+  title={Bücher}
+]
 
-\begin{refsection}
-  \printbibliography[type=article, heading=none]
-\end{refsection}
+\printbibliography[
+  filter=articles,
+  heading=subbibliography,
+  title={Artikel}
+]
 
-\begin{refsection}
-  \printbibliography[type=misc, heading=none]
-\end{refsection}
+\printbibliography[
+  filter=miscitems,
+  heading=subbibliography,
+  title={Sonstiges}
+]
 
 \end{document}
-
