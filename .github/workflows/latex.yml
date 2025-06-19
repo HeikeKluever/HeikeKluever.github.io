@@ -3,34 +3,31 @@ name: Compile LaTeX via dante‑ev Action
 on:
   push:
     paths:
-      - '**/*.tex'
-      - '**/*.bib'
+      - 'assets/tex/**'
+      - '_bibliography/**'
+      - '.github/workflows/latex.yml'
   pull_request:
     paths:
-      - '**/*.tex'
-      - '**/*.bib'
+      - 'assets/tex/**'
+      - '_bibliography/**'
+      - '.github/workflows/latex.yml'
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Check out your repo
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      # 2. Compile LaTeX document (with biblatex support)
-      - uses: dante-ev/latex-action@latest
+      - name: Build LaTeX document
+        uses: dante-ev/latex-action@latest
         with:
           root_file: assets/tex/root.tex
           compiler: latexmk
-          latexmk_use_biber: true
-          latexmk_args: >
-            -interaction=nonstopmode
-            -halt-on-error
-            -jobname=_heikekluever_cv
-            -output-directory=assets/pdf
+          args: -pdf -outdir=assets/pdf -latexoption=-file-line-error -latexoption=-interaction=nonstopmode -use-biber
+extra_system_packages: "biber"
       
-      # 4. Commit and push generated PDF to repository
       - name: Commit and push PDF
         run: |
           git config --global user.name "GitHub Actions"
