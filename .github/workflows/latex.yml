@@ -26,6 +26,7 @@ jobs:
           root_file: assets/tex/root.tex
           compiler: lualatex
           args: -interaction=nonstopmode -file-line-error
+          working_directory: assets/tex
           
       - name: Move PDF to assets/pdf
         run: |
