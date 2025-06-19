@@ -1,0 +1,34 @@
+name: Compile LaTeX via dante‑ev Action
+
+on:
+  push:
+    paths:
+      - '**/*.tex'
+      - '**/*.bib'
+  pull_request:
+    paths:
+      - '**/*.tex'
+      - '**/*.bib'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Check out your repo
+      - uses: actions/checkout@v4
+
+      # 2. Compile your LaTeX document (with biblatex support)
+      - uses: dante-ev/latex-action@v2
+        with:
+          root_file: assets/tex/root.tex
+          compiler: latexmk
+          latexmk_use_biber: true
+          latexmk_args: -interaction=nonstopmode -halt-on-error
+
+      # 3. Upload the generated PDF
+      - name: Upload PDF
+        uses: actions/upload-artifact@v3
+        with:
+          name: compiled-document
+          path: assets/pdf/_heikekluever_cv.pdf
