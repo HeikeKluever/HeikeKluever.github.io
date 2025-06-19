@@ -26,7 +26,7 @@ jobs:
           root_file: assets/tex/root.tex
           compiler: latexmk
           args: -pdf -outdir=assets/pdf -latexoption=-file-line-error -latexoption=-interaction=nonstopmode -use-biber
-extra_system_packages: "biber"
+          extra_system_packages: "biber"
       
       - name: Commit and push PDF
         run: |
