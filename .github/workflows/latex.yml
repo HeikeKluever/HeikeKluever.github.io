@@ -25,7 +25,7 @@ jobs:
         with:
           root_file: root.tex
           compiler: latexmk
-          args: -lualatex -pdf -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
+          args: -lualatex -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
           working_directory: assets/tex
           extra_system_packages: "biber"
           
