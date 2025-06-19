@@ -1,46 +1,77 @@
 \documentclass[12pt,a4paper]{article}
 
-%====================
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage{textcomp}
+% ==== Font & Encoding for LuaLaTeX ====
+\usepackage{fontspec}
+\usepackage{microtype}
+\usepackage[hyphens]{url}
+\usepackage{xurl}
 
-% Use biblatex with Biber backend
-\usepackage[backend=biber, style=authoryear, sorting=nyt, bibencoding=utf8]{biblatex}
-
-% Point to your master .bib file
+% ==== BibLaTeX setup ====
+\usepackage[
+  backend=biber,
+  style=authoryear,
+  sorting=nyt
+]{biblatex}
 \addbibresource{/github/workspace/_bibliography/publications.bib}
 
-\defbibfilter{books}{
-  type=book
-}
-\defbibfilter{articles}{
-  type=article
-}
-\defbibfilter{miscitems}{
-  type=misc
+% ==== Define filters for later grouping ====
+\defbibfilter{books}{   type=book    }
+\defbibfilter{articles}{type=article }
+\defbibfilter{miscitems}{type=misc    }
+
+% ==== Counters to detect empty categories ====
+\usepackage{etoolbox}
+\newcounter{cntbooks}
+\newcounter{cntarticles}
+\newcounter{cntmisc}
+\AtEveryBibitem{%
+  \ifentrytype{book}   {\stepcounter{cntbooks}}   {}%
+  \ifentrytype{article}{\stepcounter{cntarticles}}{}%
+  \ifentrytype{misc}   {\stepcounter{cntmisc}}     {}%
 }
 
-% Begin document
+% ==== Tuning bibliography line breaks ====
+\AtBeginBibliography{%
+  \sloppy
+  \setlength\emergencystretch{3em}%
+}
+
 \begin{document}
+
+% Pull in all entries once
 \nocite{*}
 
-\section*{Bücher}
-\printbibliography[
-  filter=books,
-  heading=none
-]
+% ===== Books =====
+\section*{Books}
+\ifnum\value{cntbooks}>0
+  \printbibliography[
+    filter=books,
+    heading=none
+  ]
+\else
+  
+\fi
 
-\section*{Artikel}
-\printbibliography[
-  filter=articles,
-  heading=none
-]
+% ===== Articles =====
+\section*{Articles}
+\ifnum\value{cntarticles}>0
+  \printbibliography[
+    filter=articles,
+    heading=none
+  ]
+\else
+  
+\fi
 
-\section*{Sonstiges}
-\printbibliography[
-  filter=miscitems,
-  heading=none
-]
+% ===== Working Papers =====
+\section*{Working Papers}
+\ifnum\value{cntmisc}>0
+  \printbibliography[
+    filter=miscitems,
+    heading=none
+  ]
+\else
+  
+\fi
 
 \end{document}
