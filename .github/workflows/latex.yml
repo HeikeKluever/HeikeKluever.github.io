@@ -23,7 +23,7 @@ jobs:
       - name: Compile with LuaLaTeX via latexmk
         uses: dante-ev/latex-action@latest
         with:
-          root_file: assets/tex/root.tex
+          root_file: root.tex
           compiler: lualatex
           args: -interaction=nonstopmode -file-line-error
           working_directory: assets/tex
