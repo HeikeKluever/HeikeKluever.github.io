@@ -15,9 +15,9 @@
 \addbibresource{/github/workspace/_bibliography/publications.bib}
 
 % ==== Define filters for later grouping ====
-\defbibfilter{books}{   type=book    }
-\defbibfilter{articles}{type=article }
-\defbibfilter{miscitems}{type=misc    }
+\defbibfilter{books}{type=book}
+\defbibfilter{articles}{type=article}
+\defbibfilter{miscitems}{type=misc}
 
 % ==== Counters to detect empty categories ====
 \usepackage{etoolbox}
@@ -25,9 +25,9 @@
 \newcounter{cntarticles}
 \newcounter{cntmisc}
 \AtEveryBibitem{%
-  \ifentrytype{book}   {\stepcounter{cntbooks}}   {}%
+  \ifentrytype{book}{\stepcounter{cntbooks}}{}%
   \ifentrytype{article}{\stepcounter{cntarticles}}{}%
-  \ifentrytype{misc}   {\stepcounter{cntmisc}}     {}%
+  \ifentrytype{misc}{\stepcounter{cntmisc}}{}%
 }
 
 % ==== Tuning bibliography line breaks ====
