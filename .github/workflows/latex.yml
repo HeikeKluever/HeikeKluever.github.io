@@ -19,11 +19,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
-      - name: Check bibliography path
-        run: |
-          ls -l ../../_bibliography
-          cat ../../_bibliography/publications.bib | head -n 20
         
       - name: Compile with LuaLaTeX via latexmk
         uses: dante-ev/latex-action@latest
