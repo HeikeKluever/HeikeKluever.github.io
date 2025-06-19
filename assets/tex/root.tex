@@ -1,0 +1,25 @@
+\documentclass[12pt,a4paper]{article}
+
+%====================
+% Use biblatex with Biber backend
+\usepackage[backend=biber, style=authoryear, sorting=nyt]{biblatex}
+
+% Point to your master .bib file
+\addbibresource{../../_bibliography/publications.bib}
+
+\begin{document}
+
+\section*{Books}
+% Only @book entries
+\printbibliography[type=book, title={Books}]
+
+\section*{Journal Articles}
+% Only @article entries
+\printbibliography[type=article, title={Journal Articles}]
+
+\section*{Miscellaneous}
+% Only @misc entries
+\printbibliography[type=misc, title={Miscellaneous}]
+
+\end{document}
+
