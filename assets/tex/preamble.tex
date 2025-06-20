@@ -1,0 +1,78 @@
+% !TeX spellcheck = en_US
+
+\documentclass[12pt,a4paper]{article}
+
+% ==== Font & Encoding for LuaLaTeX ====
+\usepackage{fontspec}
+
+\usepackage[english]{babel}
+\usepackage[us]{datetime}
+\usepackage{microtype}
+\usepackage{needspace}
+\usepackage{csquotes}
+
+\usepackage[
+	a4paper,
+	top=1.8cm,
+	right=2.0cm,
+	bottom=1.8cm,
+	left=2.0cm
+]{geometry}
+
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linktocpage=true,
+	allcolors=blue
+}
+
+\usepackage{xurl}
+\usepackage{libertinus}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{eurosym}
+
+\urlstyle{same}
+\setlength\parfillskip{0pt plus .75\textwidth}
+\setlength{\parindent}{0pt}
+\setlength\emergencystretch{1pt}
+\widowpenalty=9999
+\clubpenalty=9999
+
+% ==== Commands setup ====
+\newlength{\defbaselineskip}
+\setlength{\defbaselineskip}{\baselineskip}
+\newcommand{\setlinespacing}[1]
+{\setlength{\baselineskip}{#1 \defbaselineskip}}
+\newcommand{\Zeilenabstand}{\setlength{\baselineskip}{1.5\defbaselineskip}}
+\newcommand{\litabstand}{\setlength{\baselineskip}{1.0\defbaselineskip}}
+\newcommand{\erkabstand}{\setlength{\baselineskip}{0.2\defbaselineskip}}
+\newcommand{\tst}{\setlength{\baselineskip}{2.0\defbaselineskip}}
+\newcommand{\tocka}{\textbullet}
+\newcommand{\nzs}{~\\[\smallskipamount]}
+\newcommand{\nz}{~\\[\medskipamount]}
+\newcommand{\nzb}{~\\[\bigskipamount]}
+\newcommand{\zeile}[2]{\hspace*{0.2cm}\parbox[t]{3cm}{#1}\hspace*{0.5cm}\parbox[t]{13.2cm}{#2}}
+\newcommand{\zeilelang}[2]{\hspace*{0.2cm}\parbox[t]{5cm}{\raggedright #1}\hspace*{0.5cm}\parbox[t]{11.2cm}{#2}}
+\newcommand{\drittelzeile}[2]{\hspace*{0.2cm}\parbox[t]{5.5cm}{#1}\hspace*{0.5cm}\parbox[t]{10.6cm}{#2}}
+\newcommand{\halbezeile}[4]{\hspace*{0.2cm}\parbox[t]{3cm}{#1}\hspace*{0.5cm}\parbox[t]{5cm}{#2}\hspace*{0.5cm}\parbox[t]{3cm}{#3}\hspace*{0.5cm}\parbox[t]{5cm}{#4}}
+
+
+
+
+% ==== BibLaTeX setup ====
+\usepackage[
+	backend=biber,
+	sorting=ydnt,
+	style=authoryear-icomp,
+	maxbibnames=4,
+	minbibnames=1,
+	citestyle=authoryear-icomp,
+	maxcitenames=2,
+	mincitenames=1,
+	ibidpage=true
+]{biblatex}
+
+% ==== Options for GitHub Workflow ====
+%\addbibresource{/github/workspace/_bibliography/publications.bib}
+\addbibresource{../../_bibliography/publications.bib}
