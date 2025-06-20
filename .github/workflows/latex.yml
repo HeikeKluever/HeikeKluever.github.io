@@ -42,3 +42,8 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Ensure a commit exists to trigger deploy
+        run: |
+          git commit --allow-empty -m "trigger deploy"
+          git push
