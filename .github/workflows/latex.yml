@@ -37,7 +37,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add assets/pdf/_heikekluever_cv.pdf
+          git add assets/pdf/heikekluever_cv.pdf
           git commit -m "update compiled CV PDF"
           git push
         env:
