@@ -59,6 +59,10 @@ on:
       - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
+  workflow_run:
+    workflows: ["Compile LaTeX via dante‑ev Action"]
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
