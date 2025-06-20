@@ -1,38 +1,16 @@
-\documentclass[12pt,a4paper]{article}
+% !TeX spellcheck = en_US
 
-% ==== Font & Encoding for LuaLaTeX ====
-\usepackage{fontspec}
-\usepackage{microtype}
-\usepackage[hyphens]{url}
-\usepackage{xurl}
-
-% ==== BibLaTeX setup ====
-\usepackage[
-  backend=biber,
-  style=authoryear,
-  sorting=nyt
-]{biblatex}
-\addbibresource{/github/workspace/_bibliography/publications.bib}
-
-% ==== Tuning bibliography line breaks ====
-\AtBeginBibliography{%
-  \sloppy
-  \setlength\emergencystretch{3em}%
-}
-
-\begin{document}
 
 % Pull in all entries once
 \nocite{*}
 
-% Print the bibliography
-\section*{Books}
-\printbibliography[type=book, heading=none]
 
-\section*{Articles}
-\printbibliography[type=article, heading=none]
+% !TeX spellcheck = en_US
 
-\section*{Working Papers}
-\printbibliography[type=misc, heading=none]
+\input{preamble.tex}
+\input{bibset.tex}
 
+\begin{document}
+	\singlespacing
+	\input{main.tex}
 \end{document}

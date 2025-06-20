@@ -1,0 +1,172 @@
+\DefineBibliographyStrings{ngerman}{
+	andothers = {et al.}}
+
+\DefineBibliographyStrings{english}{
+	sequens   = {f\adddot},
+	sequentes = {ff\adddot},
+}
+
+\DeclareFieldFormat{postnote}{\setunit{\addcolon\space}#1}
+\DeclareDelimFormat{postnotedelim}{
+	\iffieldundef{postnote}
+	{\addsemicolon}
+	{\addcolon}
+}
+
+\renewcommand*{\multinamedelim}{/}
+\renewcommand*{\finalnamedelim}{ \& }
+
+\AtEveryBibitem{
+	\clearfield{month}
+	\clearfield{day}
+}
+
+\DeclareFieldFormat{year}{(#1)}
+\DeclareFieldFormat{title}{#1}
+\DeclareFieldFormat{url}{In: \url{#1}}
+\DeclareFieldFormat{urldate}{(accessed:
+	\mkbibmonth{\thefield{urlmonth}}\addspace
+	\thefield{urlday}\addcomma \addspace
+	\thefield{urlyear}\isdot)
+}
+
+
+%\DeclareFieldFormat{urldate}{(letzter Zugriff:
+%	\thefield{urlday}\adddot\addspace
+%	\mkbibmonth{\thefield{urlmonth}}\addspace
+%	\thefield{urlyear}\isdot)}
+
+\DeclareFieldFormat[article]{title}{#1}
+\DeclareFieldFormat[article]{journaltitle}{In: \textit{#1}}
+\DeclareFieldFormat[article]{number}{(#1)}
+\DeclareFieldFormat[article]{pages}{#1.}
+\DeclareBibliographyDriver{article}{%
+	\usebibmacro{bibindex}%
+	\usebibmacro{begentry}%
+	\usebibmacro{author}%
+	\setunit{\addcolon\space}%
+	\newblock
+	\printfield{title}%
+	\newunit\newblock
+	\printfield{journaltitle}%
+	\setunit{\addspace}%
+	\printfield{volume}%
+	\setunit{\addspace}%
+	\printfield{number}%
+	\setunit{\addcomma\space}%
+	\printfield{pages}%
+	\newunit\newblock
+	\setunit{\addperiod\addspace}%
+	\printfield{doi}%
+	\newunit\newblock
+	\usebibmacro{finentry}%
+}
+
+\DeclareBibliographyDriver{book}{%
+	\usebibmacro{bibindex}%
+	\usebibmacro{begentry}%
+	\usebibmacro{author}%
+	\setunit{\addcolon\space}%
+	\newblock
+	\printfield{title}%
+	\newblock\newunit
+	\usebibmacro{publisher+location+date}%
+	\usebibmacro{finentry}%
+}
+
+\DeclareBibliographyDriver{collection}{%
+	\usebibmacro{bibindex}%
+	\usebibmacro{begentry}%
+	\printnames{editor}%
+	\newblock\addspace
+	\printfield{year}
+	\setunit{\addcolon\space}%
+	\newblock
+	\printfield{title}%
+	\newunit\newblock
+	\usebibmacro{publisher+location+date}%
+	\setunit{\addcomma\space}%
+	\printfield{doi}%
+	\setunit{\bibpagerefpunct}\newblock
+	\usebibmacro{pageref}%
+	\usebibmacro{finentry}
+}
+
+\DeclareFieldFormat[incollection]{title}{#1}
+\DeclareFieldFormat[incollection]{booktitle}{#1}
+\DeclareFieldFormat[incollection]{pages}{#1}
+
+\renewbibmacro*{editor+others}{%
+	\ifnameundef{editor}
+	{}
+	{\printnames{editor}%
+		\setunit{\addspace}%
+		\ifnumgreater{\value{editor}}{1}
+		{\printtext{(eds.):}}%
+		{\printtext{(ed.):}}}}%
+
+\DeclareBibliographyDriver{incollection}{%
+	\usebibmacro{bibindex}%
+	\usebibmacro{begentry}%
+	\usebibmacro{author}%
+	\setunit{\addcolon\space}%
+	\newblock
+	\printfield{title}%
+	\newunit\newblock
+	\usebibmacro{in:}%
+	\usebibmacro{editor+others}
+	\newunit\newblock
+	\usebibmacro{maintitle+booktitle}%
+	\newunit\newblock
+	\usebibmacro{publisher+location+date}%
+	\setunit{\addcomma\space}%
+	\printfield{pages}%
+	\newunit\newblock
+	\printfield{doi}%
+	\setunit{\bibpagerefpunct}\newblock
+	\usebibmacro{pageref}%
+	\usebibmacro{finentry}
+}
+
+\DeclareFieldFormat[misc]{number}{(#1)}
+\DeclareFieldFormat[misc]{pages}{#1.}
+\DeclareBibliographyDriver{misc}{%
+	\usebibmacro{bibindex}%
+	\usebibmacro{begentry}%
+	\usebibmacro{author}%
+	\setunit{\addcolon\space}%
+	\newblock
+	\printfield{title}%
+	\newunit\newblock
+	\printfield{journaltitle}%
+	\setunit{\addspace}
+	\newunit\newblock
+	\setunit{\addspace}%
+	\printfield{volume}%
+	\setunit{\addspace}%
+	\printfield{number}%
+	\setunit{\addcomma\space}%
+	\printfield{pages}%
+	\newunit\newblock
+	\setunit{\addspace}%
+	\newunit\newblock
+	\usebibmacro{doi+eprint+url}%
+	\newunit\newblock
+	\usebibmacro{finentry}%
+}
+
+
+\DeclareBibliographyDriver{online}{%
+	\usebibmacro{bibindex}%
+	\usebibmacro{begentry}%
+	\usebibmacro{author}%
+	\setunit{\addcolon\space}%
+	\newblock
+	\printfield{title}%
+	\newunit\newblock
+	\usebibmacro{doi+eprint+url}%
+	\usebibmacro{finentry}
+}
+
+
+\setlength{\bibitemsep}{0.5\baselineskip}
