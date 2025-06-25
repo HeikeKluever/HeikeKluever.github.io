@@ -19,7 +19,7 @@ nav_order: 7
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:1em; margin:1em 0; background-color:#f9f9f9;">
   <strong><a href="https://www.tagesspiegel.de/wissen/deutsche-fur-mehr-impfsolidaritat-einige-befurworten-noch-deutlich-mehr-378148.html" target="_blank">
-    Deutsche für mehr Impfsolidarität: ‘Einige befürworten noch deutlich mehr.’
+    Deutsche für mehr Impfsolidarität: Einige befürworten noch deutlich mehr.
   </a></strong><br>
   <em>Der Tagesspiegel – January 31, 2022</em>
   <p>“Deutschland ist besser mit Covid-19-Impfstoffen versorgt als weite Teile der Welt. Ein Berliner Forscher erklärt, warum das viele hier stört.”</p>
@@ -27,7 +27,7 @@ nav_order: 7
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:1em; margin:1em 0; background-color:#f9f9f9;">
   <strong><a href="/assets/pdf/media_2021-11-27_BerlinerZeitung.pdf" target="_blank">
-    ‘Bei 50 Euro steigt die Impfbereitschaft.’
+    Bei 50 Euro steigt die Impfbereitschaft.
   </a></strong><br>
   <em>Berliner Zeitung – November 27, 2021</em>
   <p>“Der Corona-Herbst ist da und viel zu wenige sind geimpft. Die Forscherin Heike Klüver weiß: Ungeimpfte ticken tendenziell ähnlich, können aber zum Impfen bewegt werden.”</p>
