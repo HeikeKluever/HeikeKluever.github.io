@@ -41,7 +41,7 @@ profiles:
     image_circular: false
     
   - align: right
-    image: profiles/wirthgen_pic.png
+    image: profiles/wirthgen_pic.jpg
     content: profile_wirthgen.md
     image_circular: false
 ---
