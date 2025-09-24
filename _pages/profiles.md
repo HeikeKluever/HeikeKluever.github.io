@@ -39,4 +39,9 @@ profiles:
     image: profiles/wappenhans_pic.png
     content: profile_wappenhans.md
     image_circular: false
+    
+    - align: right
+    image: profiles/wirthgen_pic.png
+    content: profile_wirthgen.md
+    image_circular: false
 ---
