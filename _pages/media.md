@@ -7,7 +7,13 @@ nav: true
 nav_order: 7
 ---
 
-
+<div style="border:1px solid #ccc; border-radius:10px; padding:1em; margin:1em 0; background-color:#f9f9f9;">
+  <strong><a href="https://www.handelsblatt.com/politik/deutschland/bundesregierung-spd-chef-klingbeil-warnt-union-vor-ende-der-afd-brandmauer/100164893.html" target="_blank">
+    SPD-Chef Klingbeil warnt Union vor Ende der Brandmauer zur AfD
+  </a></strong><br>
+  <em>Handelsblatt – October 19, 2025</em>
+  <p>“‘Keine Form der Zusammenarbeit führt dazu, dass rechtsextreme Parteien an Stärke verlieren.’ Vielmehr würden sie im Fall einer Zusammenarbeit bei Wahlen im Durchschnitt sogar hinzugewinnen.”</p>
+</div>
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:1em; margin:1em 0; background-color:#f9f9f9;">
   <strong><a href="https://taz.de/Politikwissenschaftlerin-ueber-AfD-Umgang/!6037677/" target="_blank">
