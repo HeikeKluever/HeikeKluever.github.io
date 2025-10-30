@@ -8,6 +8,14 @@ nav_order: 7
 ---
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:1em; margin:1em 0; background-color:#f9f9f9;">
+  <strong><a href="https://www.spiegel.de/politik/deutschland/afd-hat-die-brandmauer-die-rechtsextreme-partei-gestaerkt-das-sagt-die-forschung-a-b44d718d-0804-40f4-8c26-fe123171d6f2" target="_blank">
+    Hat die Brandmauer die AfD gestärkt? Das sagt die Forschung
+  </a></strong><br>
+  <em>Der Spiegel – October 24, 2025</em>
+  <p>“Eine Zusammenarbeit mit der AfD komme für ihn nicht infrage, sagt Friedrich Merz. Doch in seiner CDU glauben manche, die Brandmauer habe der AfD sogar geholfen. Die Wissenschaft hat dazu eine recht eindeutige Meinung und einen Tipp.”</p>
+</div>
+
+<div style="border:1px solid #ccc; border-radius:10px; padding:1em; margin:1em 0; background-color:#f9f9f9;">
   <strong><a href="https://www.handelsblatt.com/politik/deutschland/bundesregierung-spd-chef-klingbeil-warnt-union-vor-ende-der-afd-brandmauer/100164893.html" target="_blank">
     SPD-Chef Klingbeil warnt Union vor Ende der Brandmauer zur AfD
   </a></strong><br>
