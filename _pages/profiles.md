@@ -26,21 +26,26 @@ profiles:
     image_circular: false
     
   - align: left
+    image: profiles/krueger_pic.png
+    content: profile_krueger.md
+    image_circular: false
+    
+  - align: right
     image: profiles/milosav_pic.jpg
     content: profile_milosav.md
     image_circular: false
     
-  - align: right
+  - align: left
     image: profiles/thieme_pic.jpg
     content: profile_thieme.md
     image_circular: false
     
-  - align: left
+  - align: right
     image: profiles/wappenhans_pic.png
     content: profile_wappenhans.md
     image_circular: false
     
-  - align: right
+  - align: left
     image: profiles/wirthgen_pic.jpg
     content: profile_wirthgen.md
     image_circular: false
