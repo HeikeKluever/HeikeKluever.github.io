@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/data/";
           },
-        },{id: "nav-media",
-          title: "media",
-          description: "I regularly comment on my research in a wide variety of media outlets. Below you can find a selection.",
+        },{id: "nav-media-amp-outreach",
+          title: "media &amp; outreach",
+          description: "I regularly contribute to public debates by commenting on my research in a variety of media outlets. In addition, I engage in various outreach activities to make my research accessible to the broader public. Below you can find a selection.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/media/";
