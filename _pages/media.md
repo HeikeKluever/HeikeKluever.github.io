@@ -10,15 +10,15 @@ nav_order: 7
 <h2>media</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0;">
-  <img src="{{ '/assets/img/media_preview/logo_derspiegel.svg' | relative_url }}" alt="Der Spiegel Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <img src="{{ '/assets/img/media_preview/logo_sueddeutsche.svg' | relative_url }}" alt="Der Spiegel Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
-      <a href="https://www.spiegel.de/politik/deutschland/afd-hat-die-brandmauer-die-rechtsextreme-partei-gestaerkt-das-sagt-die-forschung-a-b44d718d-0804-40f4-8c26-fe123171d6f2" target="_blank">
-        Hat die Brandmauer die AfD gestärkt? Das sagt die Forschung
+      <a href="https://www.sueddeutsche.de/meinung/demokratie-rechte-regierungsbeteiligung-afd-brandmauer-li.3340253?reduced=true" target="_blank">
+        Wenn die Rechte mitregiert, wird sie nicht geschwächt – im Gegenteil
       </a>
     </strong><br>
-    <em>Der Spiegel – October 24, 2025</em>
-    <p>“Eine Zusammenarbeit mit der AfD komme für ihn nicht infrage, sagt Friedrich Merz. Doch in seiner CDU glauben manche, die Brandmauer habe der AfD sogar geholfen. Die Wissenschaft hat dazu eine recht eindeutige Meinung und einen Tipp.”</p>
+    <em>Süddeutsche Zeitung – November 18, 2025</em>
+    <p>“Sobald sie in Verantwortung kommt, unterliegt sie Sachzwängen, muss Kompromisse schließen, lernt Mäßigung. So lautet eine verbreitete Hoffnung. Doch eine Untersuchung von 57 Ländern zeigt: Dieser Glaube ist ein Irrglaube.”</p>
   </div>
 </div>
 
