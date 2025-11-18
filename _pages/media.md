@@ -198,7 +198,7 @@ nav_order: 7
       </a>
     </strong><br>
     <em>Maxim Gorki Theater</em>
-    <p>“Gegen die Verzweiflung[…:] Was funktioniert gegen Extremismus? Wie kann die Geschichte als Quelle der Zivilisation gegen den Zusammenbruch wirken – für die wehrhafte Demokratie.”</p>
+    <p>“In Deutschland und der ganzen Welt ist der Extremismus auf dem Vormarsch. Ratlosigkeit herrscht, vielleicht sogar Verzweiflung. […] Was funktioniert gegen Extremismus? Wie kann die Geschichte als Quelle der Zivilisation gegen den Zusammenbruch wirken – für die wehrhafte Demokratie.”</p>
   </div>
 </div>
 
@@ -237,7 +237,7 @@ nav_order: 7
       </a>
     </strong><br>
     <em>SCRIPTS – June 10, 2024</em>
-    <p>“Am Tag nach den Wahlen analysieren die Politikwissenschaftler:innen, Wahlforder:innen und Kommunikationsforscher:innen gemeinsam mit Vertreter:innen Europäischer Institutionen den Wahlausgang und diskutieren die Folgen der Ergebnisse für die Zukunft Europas.”.</p>
+    <p>“Am Tag nach den Wahlen analysieren die Politikwissenschaftler:innen, Wahlforder:innen und Kommunikationsforscher:innen gemeinsam mit Vertreter:innen Europäischer Institutionen den Wahlausgang und diskutieren die Folgen der Ergebnisse für die Zukunft Europas.”</p>
   </div>
 </div>
 
