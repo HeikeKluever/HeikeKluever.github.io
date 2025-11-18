@@ -203,7 +203,7 @@ nav_order: 7
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_govlab.svg' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <img src="{{ '/assets/img/media_preview/logo_govlab.png' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
       <a href="https://hu-govlab.de/en/events-2" target="_blank">
@@ -216,7 +216,7 @@ nav_order: 7
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_govlab.svg' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <img src="{{ '/assets/img/media_preview/logo_govlab.png' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
       <a href="https://hu-govlab.de/en/events-2" target="_blank">
