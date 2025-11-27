@@ -206,6 +206,9 @@
       {% if entry.type == "book" and entry.url %}
         <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">url</a>
       {% endif %}
+      {% if entry.type == "incollection" and entry.url %}
+        <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">url</a>
+      {% endif %}
       {% if entry.data %}
         <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button">data</a>
       {% endif %}

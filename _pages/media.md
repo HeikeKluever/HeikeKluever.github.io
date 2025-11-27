@@ -155,6 +155,17 @@ nav_order: 7
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_dlfnova.svg' | relative_url }}" alt="Deutschlandfunk Nova Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.deutschlandfunknova.de/beitrag/anreize-fuers-impfen-auch-50-euro-%C3%A4ndern-nur-wenig" target="_blank">
+      Freiheit, Geld, Donuts: Anreize lassen Impfbereitschaft nur leicht steigen
+    </a></strong><br>
+    <em>Deutschlandfunk Nova – July 23, 2021</em>
+    <p>“Die USA haben sich schon einiges einfallen lassen, um mehr Impfwillige anzulocken: Kostenlose Joints in Washington, eine Impflotterie mit dem Hauptgewinn von einer Million Euro oder kostenlose Donuts und Eis. Aber - bringt das was?”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_washingtonpost.svg' | relative_url }}" alt="Washington Post Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://www.washingtonpost.com/politics/2019/07/23/across-europe-coalition-governments-are-hurting-political-parties-that-join-them/" target="_blank">
@@ -165,14 +176,16 @@ nav_order: 7
   </div>
 </div>
 
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_dlfnova.svg' | relative_url }}" alt="Deutschlandfunk Nova Logo" style="width:105px; height:auto; flex-shrink:0;">
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0;">
+  <img src="{{ '/assets/img/media_preview/logo_elpais.svg' | relative_url }}" alt="El País Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://www.deutschlandfunknova.de/beitrag/anreize-fuers-impfen-auch-50-euro-%C3%A4ndern-nur-wenig" target="_blank">
-      Freiheit, Geld, Donuts: Anreize lassen Impfbereitschaft nur leicht steigen
-    </a></strong><br>
-    <em>Deutschlandfunk Nova – July 23, 2021</em>
-    <p>“Die USA haben sich schon einiges einfallen lassen, um mehr Impfwillige anzulocken: Kostenlose Joints in Washington, eine Impflotterie mit dem Hauptgewinn von einer Million Euro oder kostenlose Donuts und Eis. Aber - bringt das was?”</p>
+    <strong>
+      <a href="https://elpais.com/elpais/2019/07/29/opinion/1564400689_978470.html" target="_blank">
+        Y ahora ¿qué hacer?
+      </a>
+    </strong><br>
+    <em>El País – July 30, 2019</em>
+    <p>“En España, quienes quieren pactar no pueden; y quienes pueden, no quieren”</p>
   </div>
 </div>
 

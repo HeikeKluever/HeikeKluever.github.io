@@ -18,6 +18,10 @@ nav_order: 4
   <h2>books</h2>
 
   {% bibliography -f publications -q @book %}
+  
+  <h2 style="margin-top: 80px;">book chapters</h2>
+
+  {% bibliography -f publications -q @incollection %}
 
   <h2 style="margin-top: 80px;">articles</h2>
 
