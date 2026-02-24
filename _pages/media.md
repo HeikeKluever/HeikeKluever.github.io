@@ -10,6 +10,20 @@ nav_order: 7
 <h2>media</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0;">
+  <img src="{{ '/assets/img/media_preview/logo_swp.svg' | relative_url }}" alt="Südwest Presse Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong>
+      <a href="/assets/pdf/media_2026-02-20_SüdwestPresse.pdf" target="_blank">
+        “Das wird Stimmen kosten”
+      </a>
+    </strong><br>
+    <em>Südwest Presse – February 20, 2026</em>
+    <p>“Die Forscherin Heike Klüver hat untersucht, welche Strategie im
+Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0;">
   <img src="{{ '/assets/img/media_preview/logo_sueddeutsche.svg' | relative_url }}" alt="Süddeutsche Zeitung Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
