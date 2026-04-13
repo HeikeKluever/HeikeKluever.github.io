@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-<h2>media</h2>
+<h2>interviews & op-eds</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0;">
   <img src="{{ '/assets/img/media_preview/logo_swp.svg' | relative_url }}" alt="Südwest Presse Logo" style="width:105px; height:auto; flex-shrink:0;">
@@ -211,6 +211,195 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
     </a></strong><br>
     <em>Frankfurter Allgemeine Zeitung – April 30, 2015</em>
     <p>“Viele Teilzeitverträge, befristete Stellen und ungewisse Perspektive: Wer als Wissenschaftler Karriere machen will, der geht ein hohes Risiko ein. Tipps von Aufsteigern und Aussteigern.”</p>
+  </div>
+</div>
+
+<h2>media coverage</h2>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_forschunglehre.svg' | relative_url }}" alt="Forschung &amp; Lehre Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.forschung-und-lehre.de/forschung/das-gefuehl-von-ungleichheit-kann-naehrboden-fuer-populismus-sein-7604" target="_blank">
+      Das Gefühl von Ungleichheit kann Nährboden für Populismus sein
+    </a></strong><br>
+    <em>Forschung &amp; Lehre – March 24, 2026</em>
+    <p>“Eine Studie zeigt, dass wachsende Wohlstandsunterschiede den Erfolg populistischer Parteien fördern. Relevant ist die subjektive Wahrnehmung.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_elpais.svg' | relative_url }}" alt="El País Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://elpais.com/espana/2025-10-19/el-aborto-recrudece-la-decisiva-batalla-por-el-voto-de-las-mujeres.html" target="_blank">
+      El aborto recrudece la decisiva batalla por el voto de las mujeres
+    </a></strong><br>
+    <em>El País – October 19, 2025</em>
+    <p>“Tras recuperar el terreno perdido por los audios del ‘caso Koldo’, el PSOE vuelve a ser líder en el electorado femenino, más indeciso que el masculino”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_forbes.svg' | relative_url }}" alt="Forbes Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.forbes.com/sites/feliciajackson/2025/10/03/chinas-climate-push-is-an-economic-power-play/" target="_blank">
+      China's Climate Push Is An Economic Power Play
+    </a></strong><br>
+    <em>Forbes – October 3, 2025</em>
+    <p>“While climate policy in major industrialized democracies is increasingly treated as a culture war issue by far-right parties, China is treating it as an economic strategy.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_lasexta.svg' | relative_url }}" alt="La Sexta Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.lasexta.com/noticias/sociedad/miedo-extranjero-bombardeo-masivo-redes-sociales-asi-atrae-extrema-derecha-jovenes_20250803688f52b71cc51203b5b06db6.html" target="_blank">
+      El "miedo al extranjero" y el bombardeo masivo en redes sociales: así atrae la extrema derecha a los jóvenes
+    </a></strong><br>
+    <em>La Sexta – August 3, 2025</em>
+    <p>“¿Qué está pasando? Estas formaciones radicales han logrado aglutinar un cuarto del voto de entre los 18 y 35 años. Día a día ganan adeptos entre una juventud cada vez más descontenta.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_internazionale.png' | relative_url }}" alt="Internazionale Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.internazionale.it/notizie/stella-levantesi/2025/07/23/estrema-destra-transizione-energetica-ecnomia" target="_blank">
+      I pretesti dell'estrema destra per fermare la transizione energetica
+    </a></strong><br>
+    <em>Internazionale – July 23, 2025</em>
+    <p>“I partiti di estrema destra in tutta Europa sfruttano le paure sui costi delle politiche climatiche per ostacolare la transizione verde.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_un.svg' | relative_url }}" alt="UN General Assembly Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://docs.un.org/en/A/80/138" target="_blank">
+      Far-right populism and the future of social protection (A/80/138)
+    </a></strong><br>
+    <em>UN General Assembly – July 11, 2025</em>
+    <p>“A study covering 14 European countries over this period showed that a 1 point increase in the Gini index of disposable income inequality was associated with a 1 point increase in support for populist parties, an almost perfect correlation. ”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_bnr.png' | relative_url }}" alt="BNR Nieuwsradio Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.bnr.nl/nieuws/economie/10576043/effectiviteit-tijdelijke-grenscontroles-zeer-beperkt-lossen-geen-structurele-problemen-op" target="_blank">
+      Effectiviteit tijdelijke grenscontroles zeer beperkt, lossen geen structurele problemen op
+    </a></strong><br>
+    <em>BNR Nieuwsradio – 2025</em>
+    <p>“De recente grenscontroles binnen de EU zijn vooral politiek gedreven symbolische controles, om de burger te laten zien dat overheden migratie serieus nemen, en er ook grip op hebben. Door hun tijdelijke karakter zijn de controles beperkt in hun duur en effectiviteit, zegt hoogleraar Europese Studies Theresa Kuhn van de Universiteit van Amsterdam.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_theloop.svg' | relative_url }}" alt="The Loop (ECPR) Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://theloop.ecpr.eu/how-covid-19-border-closures-shaped-attitudes-in-europe/" target="_blank">
+      How Covid-19 Border Closures Shaped Attitudes in Europe
+    </a></strong><br>
+    <em>The Loop (ECPR) – May 29, 2025</em>
+    <p>“Covid-19 border closures were intended to protect public health, but their symbolic effects reached far beyond controlling the virus. Lisa Herbig argues that temporary closures significantly weakened support for European unity, and increased hostility toward immigrants in the short term.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_theguardian.svg' | relative_url }}" alt="The Guardian Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.theguardian.com/commentisfree/2025/may/21/young-men-women-far-right-online-politics-centre-left" target="_blank">
+      The real story isn't young men supposedly voting far right. It's what young women are up to
+    </a></strong><br>
+    <em>The Guardian – May 21, 2025</em>
+    <p>“[T]he media’s obsessive focus on the young men allegedly fuelling the rise of the far right isn’t just empirically flawed – it misses a much more significant shift in public opinion among young people.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_lavanguardia.svg' | relative_url }}" alt="La Vanguardia Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.lavanguardia.com/politica/20250519/10694463/voto-ultraderecha-crece-hombres-jovenes-toda-europa.html" target="_blank">
+      El voto a la ultraderecha crece entre los hombres jóvenes ya en toda Europa
+    </a></strong><br>
+    <em>La Vanguardia – May 19, 2025</em>
+    <p>“La coalición de populares, socialistas y liberales pudo frenar a la extrema derecha en el Parlamento Europeo tras las elecciones de hace un año, pero los partidos ultras no dejan de incorporar savia nueva entre sus votantes.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_tv3.svg' | relative_url }}" alt="TV3 Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.3cat.cat/3catinfo/els-factors-que-expliquen-el-gir-a-la-dreta-dels-joves-es-un-fenomen-contraintuitiu/noticia/3350554/" target="_blank">
+      Els factors que expliquen el gir a la dreta dels joves: “És un fenomen contraintuïtiu”
+    </a></strong><br>
+    <em>TV3 – May 11, 2025</em>
+    <p>“Diversos estudis apunten que els nois de fins a 30 anys són més conservadors i masclistes com a reacció als canvis culturals, mentre que les noies són més progressistes”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_europapress.png' | relative_url }}" alt="Europa Press Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.europapress.es/catalunya/noticia-crece-brecha-genero-jovenes-europeos-voto-ultraderecha-estudio-20250507112325.html" target="_blank">
+      Crece la brecha de género entre jóvenes europeos en el voto a la ultraderecha, según un estudio
+    </a></strong><br>
+    <em>Europa Press – May 7, 2025</em>
+    <p>“Es un fenómeno ‘de nueva generación’ con el potencial de impactar en las sociedades europeas”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_theloop.svg' | relative_url }}" alt="The Loop (ECPR) Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://theloop.ecpr.eu/are-young-men-increasingly-supporting-the-far-right/" target="_blank">
+      Are young men increasingly supporting the far right?
+    </a></strong><br>
+    <em>The Loop (ECPR) – May 1, 2025</em>
+    <p>“Đorđe Milosav explores how young men are reshaping Europe's political landscape. Drawing on European Election Study data, and based on recent co-authored research, he shows that rising male support for the far right is a generational shift — with potentially serious democratic consequences”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_decorrespondent.svg' | relative_url }}" alt="De Correspondent Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://decorrespondent.nl/15922/kan-europa-op-eigen-benen-staan/0e7a7764-a411-0e33-35da-ccbf119821f7" target="_blank">
+      Kan Europa op eigen benen staan?
+    </a></strong><br>
+    <em>De Correspondent – February 28, 2025</em>
+    <p>“De Europese Unie zit tussen twee vuren, ziet politicoloog Theresa Kuhn: het machtsvertoon van Rusland en de Verenigde Staten enerzijds, en de extreemrechtse opruiingen binnen de Europese landsgrenzen anderzijds. Is ons continent bestand tegen deze gevaren?”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_bnr.png' | relative_url }}" alt="BNR Nieuwsradio Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.bnr.nl/podcast/de-strateeg/10566870/democratieen-in-europa-staan-onder-druk" target="_blank">
+      Democratieën in Europa staan onder druk
+    </a></strong><br>
+    <em>BNR Nieuwsradio – February 9, 2025</em>
+    <p>“We zijn trots op onze democratieën in Europa, maar dat is al lang niet meer vanzelfsprekend. De oorlog in Oekraïne is een direct gevaar voor onze vrijheid en veiligheid. Maar het gevaar komt ook van binnenuit. Wat te denken van Viktor Orbán in Hongarije en de opmars van de radicaalrechtse AfD in Duitsland.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_polscinow.svg' | relative_url }}" alt="Political Science Now Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://politicalsciencenow.com/partisanship-and-the-social-media-pulpit/" target="_blank">
+      Partisanship and the Social Media Pulpit
+    </a></strong><br>
+    <em>Political Science Now – November 22, 2024</em>
+    <p>“While most US presidents relied on the pulpit of the traditional media to get across their message, Trump chose instead to speak directly to his supporters and voters from 280 characters on their phone screen. Who listened to these messages, and how did it change their behavior?—that is the key question Zachary Dickson and Sara Hobolt answer in their recent APSR publication.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_psypost.png' | relative_url }}" alt="PsyPost Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.psypost.org/a-single-trump-tweet-has-been-connected-to-a-rise-in-arrests-of-white-americans/" target="_blank">
+      A single Trump tweet has been connected to a rise in arrests of white Americans
+    </a></strong><br>
+    <em>PsyPost – September 24, 2024</em>
+    <p>“A new study published in the American Political Science Review sheds light on how political elites, such as former President Donald Trump, can influence public behavior through polarizing messages on social media.”</p>
   </div>
 </div>
 
