@@ -278,7 +278,7 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
       Far-right populism and the future of social protection (A/80/138)
     </a></strong><br>
     <em>UN General Assembly – July 11, 2025</em>
-    <p>“A study covering 14 European countries over this period showed that a 1 point increase in the Gini index of disposable income inequality was associated with a 1 point increase in support for populist parties, an almost perfect correlation. ”</p>
+    <p>“A study covering 14 European countries over this period showed that a 1 point increase in the Gini index of disposable income inequality was associated with a 1 point increase in support for populist parties, an almost perfect correlation.”</p>
   </div>
 </div>
 
