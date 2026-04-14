@@ -307,7 +307,7 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
       </a>
     </strong><br>
     <em>re:publica – May 2026</em>
-    <p>„Emotionale Manipulation ist ein Erfolgsfaktor populistischer Inhalte auf Social Media. Ein groß angelegtes Experiment zeigt: Digital Literacy Training reduziert die Anfälligkeit für solche Inhalte und senkt die Unterstützung für die AfD.“</p>
+    <p>“Emotionale Manipulation ist ein Erfolgsfaktor populistischer Inhalte auf Social Media. Ein groß angelegtes Experiment zeigt: Digital Literacy Training reduziert die Anfälligkeit für solche Inhalte und senkt die Unterstützung für die AfD.”</p>
   </div>
 </div>
 
@@ -320,7 +320,7 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
       </a>
     </strong><br>
     <em>Civey Demoskopie Lunch – March 2026</em>
-    <p>„In unserem Webinar gehen Dr. Florens Mayer und Prof. Dr. Heike Klüver der Frage nach, wie demokratische Parteien rechtspopulistischen Parteien wirksam entgegentreten können und unterscheiden dabei zwischen zwei zentralen Instrumenten: der Themensetzung in Wahlkämpfen und rhetorischen Strategien in der politischen Kommunikation, insbesondere auf Social Media.“</p>
+    <p>“In unserem Webinar gehen Dr. Florens Mayer und Prof. Dr. Heike Klüver der Frage nach, wie demokratische Parteien rechtspopulistischen Parteien wirksam entgegentreten können und unterscheiden dabei zwischen zwei zentralen Instrumenten: der Themensetzung in Wahlkämpfen und rhetorischen Strategien in der politischen Kommunikation, insbesondere auf Social Media.”</p>
   </div>
 </div>
 
@@ -333,7 +333,7 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
       </a>
     </strong><br>
     <em>de’ge’pol – January 21, 2026</em>
-    <p>„Inhaltlich stellen oder isolieren? – vom schwierigen Umgang mit Extremisten in der Praxis“</p>
+    <p>“Inhaltlich stellen oder isolieren? – vom schwierigen Umgang mit Extremisten in der Praxis”</p>
   </div>
 </div>
 
