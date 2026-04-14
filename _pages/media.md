@@ -228,27 +228,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 <h2>media coverage</h2>
 
 
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_lasexta.svg' | relative_url }}" alt="La Sexta Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://www.lasexta.com/noticias/sociedad/miedo-extranjero-bombardeo-masivo-redes-sociales-asi-atrae-extrema-derecha-jovenes_20250803688f52b71cc51203b5b06db6.html" target="_blank">
-      El "miedo al extranjero" y el bombardeo masivo en redes sociales: así atrae la extrema derecha a los jóvenes
-    </a></strong><br>
-    <em>La Sexta – August 3, 2025</em>
-    <p>“¿Qué está pasando? Estas formaciones radicales han logrado aglutinar un cuarto del voto de entre los 18 y 35 años. Día a día ganan adeptos entre una juventud cada vez más descontenta.”</p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_internazionale.png' | relative_url }}" alt="Internazionale Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://www.internazionale.it/notizie/stella-levantesi/2025/07/23/estrema-destra-transizione-energetica-ecnomia" target="_blank">
-      I pretesti dell'estrema destra per fermare la transizione energetica
-    </a></strong><br>
-    <em>Internazionale – July 23, 2025</em>
-    <p>“I partiti di estrema destra in tutta Europa sfruttano le paure sui costi delle politiche climatiche per ostacolare la transizione verde.”</p>
-  </div>
-</div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_un.svg' | relative_url }}" alt="UN General Assembly Logo" style="width:105px; height:auto; flex-shrink:0;">
@@ -295,16 +274,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
   </div>
 </div>
 
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_tv3.svg' | relative_url }}" alt="TV3 Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://www.3cat.cat/3catinfo/els-factors-que-expliquen-el-gir-a-la-dreta-dels-joves-es-un-fenomen-contraintuitiu/noticia/3350554/" target="_blank">
-      Els factors que expliquen el gir a la dreta dels joves: “És un fenomen contraintuïtiu”
-    </a></strong><br>
-    <em>TV3 – May 11, 2025</em>
-    <p>“Diversos estudis apunten que els nois de fins a 30 anys són més conservadors i masclistes com a reacció als canvis culturals, mentre que les noies són més progressistes”</p>
-  </div>
-</div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_europapress.png' | relative_url }}" alt="Europa Press Logo" style="width:105px; height:auto; flex-shrink:0;">
