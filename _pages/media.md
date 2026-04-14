@@ -299,19 +299,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 <h2>outreach</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_gorki.svg' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong>
-      <a href="https://www.gorki.de/de/der-rat-der-geschichte" target="_blank">
-        Der Rat der Geschichte
-      </a>
-    </strong><br>
-    <em>Maxim Gorki Theater</em>
-    <p>“In Deutschland und der ganzen Welt ist der Extremismus auf dem Vormarsch. Ratlosigkeit herrscht, vielleicht sogar Verzweiflung. […] Was funktioniert gegen Extremismus? Wie kann die Geschichte als Quelle der Zivilisation gegen den Zusammenbruch wirken – für die wehrhafte Demokratie.”</p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_republica.svg' | relative_url }}" alt="re:publica Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
@@ -325,6 +312,19 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_civey.svg' | relative_url }}" alt="Civey Demoskopie Lunch Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong>
+      <a href="https://www.youtube.com/watch?v=16QxNvCZ78w" target="_blank">
+        Demoskopie Lunch – Rechtspopulismus wirksam bekämpfen: Antworten demokratischer Parteien
+      </a>
+    </strong><br>
+    <em>Civey Demoskopie Lunch – March 2026</em>
+    <p>„In unserem Webinar gehen Dr. Florens Mayer und Prof. Dr. Heike Klüver der Frage nach, wie demokratische Parteien rechtspopulistischen Parteien wirksam entgegentreten können und unterscheiden dabei zwischen zwei zentralen Instrumenten: der Themensetzung in Wahlkämpfen und rhetorischen Strategien in der politischen Kommunikation, insbesondere auf Social Media.“</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_degepol.png' | relative_url }}" alt="de'ge'pol Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
@@ -334,6 +334,19 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
     </strong><br>
     <em>de’ge’pol – January 21, 2026</em>
     <p>„Inhaltlich stellen oder isolieren? – vom schwierigen Umgang mit Extremisten in der Praxis“</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_gorki.svg' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong>
+      <a href="https://www.gorki.de/de/der-rat-der-geschichte" target="_blank">
+        Der Rat der Geschichte
+      </a>
+    </strong><br>
+    <em>Maxim Gorki Theater – November 2025</em>
+    <p>“In Deutschland und der ganzen Welt ist der Extremismus auf dem Vormarsch. Ratlosigkeit herrscht, vielleicht sogar Verzweiflung. […] Was funktioniert gegen Extremismus? Wie kann die Geschichte als Quelle der Zivilisation gegen den Zusammenbruch wirken – für die wehrhafte Demokratie.”</p>
   </div>
 </div>
 
@@ -360,19 +373,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
     </strong><br>
     <em>Humboldt Governance Lab – July 15, 2025</em>
     <p></p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_civey.svg' | relative_url }}" alt="Civey Demoskopie Lunch Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong>
-      <a href="https://www.youtube.com/watch?v=16QxNvCZ78w" target="_blank">
-        Demoskopie Lunch – Rechtspopulismus wirksam bekämpfen: Antworten demokratischer Parteien
-      </a>
-    </strong><br>
-    <em>Civey Demoskopie Lunch</em>
-    <p>„In unserem Webinar gehen Dr. Florens Mayer und Prof. Dr. Heike Klüver der Frage nach, wie demokratische Parteien rechtspopulistischen Parteien wirksam entgegentreten können und unterscheiden dabei zwischen zwei zentralen Instrumenten: der Themensetzung in Wahlkämpfen und rhetorischen Strategien in der politischen Kommunikation, insbesondere auf Social Media.“</p>
   </div>
 </div>
 
