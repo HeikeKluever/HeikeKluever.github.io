@@ -9,6 +9,17 @@ nav_order: 7
 
 <h2>interviews & op-eds</h2>
 
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_forschunglehre.svg' | relative_url }}" alt="Forschung &amp; Lehre Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.forschung-und-lehre.de/forschung/das-gefuehl-von-ungleichheit-kann-naehrboden-fuer-populismus-sein-7604" target="_blank">
+      Das Gefühl von Ungleichheit kann Nährboden für Populismus sein
+    </a></strong><br>
+    <em>Forschung &amp; Lehre – March 24, 2026</em>
+    <p>“Eine Studie zeigt, dass wachsende Wohlstandsunterschiede den Erfolg populistischer Parteien fördern. Relevant ist die subjektive Wahrnehmung.”</p>
+  </div>
+</div>
+
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0;">
   <img src="{{ '/assets/img/media_preview/logo_swp.svg' | relative_url }}" alt="Südwest Presse Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
@@ -216,38 +227,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 
 <h2>media coverage</h2>
 
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_forschunglehre.svg' | relative_url }}" alt="Forschung &amp; Lehre Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://www.forschung-und-lehre.de/forschung/das-gefuehl-von-ungleichheit-kann-naehrboden-fuer-populismus-sein-7604" target="_blank">
-      Das Gefühl von Ungleichheit kann Nährboden für Populismus sein
-    </a></strong><br>
-    <em>Forschung &amp; Lehre – March 24, 2026</em>
-    <p>“Eine Studie zeigt, dass wachsende Wohlstandsunterschiede den Erfolg populistischer Parteien fördern. Relevant ist die subjektive Wahrnehmung.”</p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_elpais.svg' | relative_url }}" alt="El País Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://elpais.com/espana/2025-10-19/el-aborto-recrudece-la-decisiva-batalla-por-el-voto-de-las-mujeres.html" target="_blank">
-      El aborto recrudece la decisiva batalla por el voto de las mujeres
-    </a></strong><br>
-    <em>El País – October 19, 2025</em>
-    <p>“Tras recuperar el terreno perdido por los audios del ‘caso Koldo’, el PSOE vuelve a ser líder en el electorado femenino, más indeciso que el masculino”</p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_forbes.svg' | relative_url }}" alt="Forbes Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://www.forbes.com/sites/feliciajackson/2025/10/03/chinas-climate-push-is-an-economic-power-play/" target="_blank">
-      China's Climate Push Is An Economic Power Play
-    </a></strong><br>
-    <em>Forbes – October 3, 2025</em>
-    <p>“While climate policy in major industrialized democracies is increasingly treated as a culture war issue by far-right parties, China is treating it as an economic strategy.”</p>
-  </div>
-</div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_lasexta.svg' | relative_url }}" alt="La Sexta Logo" style="width:105px; height:auto; flex-shrink:0;">
@@ -282,16 +261,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
   </div>
 </div>
 
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_bnr.png' | relative_url }}" alt="BNR Nieuwsradio Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://www.bnr.nl/nieuws/economie/10576043/effectiviteit-tijdelijke-grenscontroles-zeer-beperkt-lossen-geen-structurele-problemen-op" target="_blank">
-      Effectiviteit tijdelijke grenscontroles zeer beperkt, lossen geen structurele problemen op
-    </a></strong><br>
-    <em>BNR Nieuwsradio – 2025</em>
-    <p>“De recente grenscontroles binnen de EU zijn vooral politiek gedreven symbolische controles, om de burger te laten zien dat overheden migratie serieus nemen, en er ook grip op hebben. Door hun tijdelijke karakter zijn de controles beperkt in hun duur en effectiviteit, zegt hoogleraar Europese Studies Theresa Kuhn van de Universiteit van Amsterdam.”</p>
-  </div>
-</div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_theloop.svg' | relative_url }}" alt="The Loop (ECPR) Logo" style="width:105px; height:auto; flex-shrink:0;">
@@ -359,49 +328,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
   </div>
 </div>
 
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_decorrespondent.svg' | relative_url }}" alt="De Correspondent Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://decorrespondent.nl/15922/kan-europa-op-eigen-benen-staan/0e7a7764-a411-0e33-35da-ccbf119821f7" target="_blank">
-      Kan Europa op eigen benen staan?
-    </a></strong><br>
-    <em>De Correspondent – February 28, 2025</em>
-    <p>“De Europese Unie zit tussen twee vuren, ziet politicoloog Theresa Kuhn: het machtsvertoon van Rusland en de Verenigde Staten enerzijds, en de extreemrechtse opruiingen binnen de Europese landsgrenzen anderzijds. Is ons continent bestand tegen deze gevaren?”</p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_bnr.png' | relative_url }}" alt="BNR Nieuwsradio Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://www.bnr.nl/podcast/de-strateeg/10566870/democratieen-in-europa-staan-onder-druk" target="_blank">
-      Democratieën in Europa staan onder druk
-    </a></strong><br>
-    <em>BNR Nieuwsradio – February 9, 2025</em>
-    <p>“We zijn trots op onze democratieën in Europa, maar dat is al lang niet meer vanzelfsprekend. De oorlog in Oekraïne is een direct gevaar voor onze vrijheid en veiligheid. Maar het gevaar komt ook van binnenuit. Wat te denken van Viktor Orbán in Hongarije en de opmars van de radicaalrechtse AfD in Duitsland.”</p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_polscinow.svg' | relative_url }}" alt="Political Science Now Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://politicalsciencenow.com/partisanship-and-the-social-media-pulpit/" target="_blank">
-      Partisanship and the Social Media Pulpit
-    </a></strong><br>
-    <em>Political Science Now – November 22, 2024</em>
-    <p>“While most US presidents relied on the pulpit of the traditional media to get across their message, Trump chose instead to speak directly to his supporters and voters from 280 characters on their phone screen. Who listened to these messages, and how did it change their behavior?—that is the key question Zachary Dickson and Sara Hobolt answer in their recent APSR publication.”</p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_psypost.png' | relative_url }}" alt="PsyPost Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://www.psypost.org/a-single-trump-tweet-has-been-connected-to-a-rise-in-arrests-of-white-americans/" target="_blank">
-      A single Trump tweet has been connected to a rise in arrests of white Americans
-    </a></strong><br>
-    <em>PsyPost – September 24, 2024</em>
-    <p>“A new study published in the American Political Science Review sheds light on how political elites, such as former President Donald Trump, can influence public behavior through polarizing messages on social media.”</p>
-  </div>
-</div>
 
 <h2>outreach</h2>
 
