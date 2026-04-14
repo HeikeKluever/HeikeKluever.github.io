@@ -227,8 +227,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 
 <h2>media coverage</h2>
 
-
-
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_un.svg' | relative_url }}" alt="UN General Assembly Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
@@ -314,6 +312,32 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_republica.svg' | relative_url }}" alt="re:publica Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong>
+      <a href="https://re-publica.com/de/session/digital-literacy-reduziert-die-anfaelligkeit-fuer-populistische-inhalte-auf-social-media" target="_blank">
+        Digital Literacy reduziert die Anfälligkeit für populistische Inhalte auf Social Media
+      </a>
+    </strong><br>
+    <em>re:publica – May 2026</em>
+    <p>„Emotionale Manipulation ist ein Erfolgsfaktor populistischer Inhalte auf Social Media. Ein groß angelegtes Experiment zeigt: Digital Literacy Training reduziert die Anfälligkeit für solche Inhalte und senkt die Unterstützung für die AfD.“</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_degepol.png' | relative_url }}" alt="de'ge'pol Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong>
+      <a href="https://www.degepol.de/veranstaltungen/degepol-jahresauftakt" target="_blank">
+        de'ge'pol Jahresauftakt 2026
+      </a>
+    </strong><br>
+    <em>de’ge’pol – January 21, 2026</em>
+    <p>„Inhaltlich stellen oder isolieren? – vom schwierigen Umgang mit Extremisten in der Praxis“</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_govlab.png' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
@@ -336,6 +360,19 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
     </strong><br>
     <em>Humboldt Governance Lab – July 15, 2025</em>
     <p></p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_civey.svg' | relative_url }}" alt="Civey Demoskopie Lunch Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong>
+      <a href="https://www.youtube.com/watch?v=16QxNvCZ78w" target="_blank">
+        Demoskopie Lunch – Rechtspopulismus wirksam bekämpfen: Antworten demokratischer Parteien
+      </a>
+    </strong><br>
+    <em>Civey Demoskopie Lunch</em>
+    <p>„In unserem Webinar gehen Dr. Florens Mayer und Prof. Dr. Heike Klüver der Frage nach, wie demokratische Parteien rechtspopulistischen Parteien wirksam entgegentreten können und unterscheiden dabei zwischen zwei zentralen Instrumenten: der Themensetzung in Wahlkämpfen und rhetorischen Strategien in der politischen Kommunikation, insbesondere auf Social Media.“</p>
   </div>
 </div>
 
@@ -375,6 +412,17 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
     </strong><br>
     <em>Berlin University Alliance – May 6, 2024</em>
     <p>“Welche Strategien gegen Populismus gibt es für demokratische Parteien? Prof. Heike Klüver (HU Berlin, Exzellenzcluster Scripts) berichtete aus ihrer Forschung”.</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_fraktionen.png' | relative_url }}" alt="Logos of the Parliamentary Groups of the SPD, The Greens, and the FDP in the Bundestag" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong>
+      Praxis-Panel Impftempo – Impfbereitschaft und Impfanreize
+    </strong><br>
+    <em>The parliamentary groups of the SPD, the Greens, and the FDP in the Bundestag – November 12, 2021</em>
+    <p></p>
   </div>
 </div>
 
