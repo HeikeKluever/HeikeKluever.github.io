@@ -196,9 +196,9 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
   <img src="{{ '/assets/img/media_preview/logo_mdr.svg' | relative_url }}" alt="MDR Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://www.mdr.de/nachrichten/deutschland/politik/kommentar-brandmauer-afd,meinung-162.html" target="_blank">
-      Kommentar: Die Brandmauer zur AfD ist nicht das Problem
+      Die Brandmauer zur AfD ist nicht das Problem
     </a></strong><br>
-    <em>MDR AKTUELL – June 3, 2026</em>
+    <em>MDR Aktuell – June 3, 2026</em>
     <p>“Parteien der Mitte lehnen Bündnisse mit der AfD ab. Doch sie gewinnt an Stimmen und ein Umdenken wird gefordert: Die Brandmauer müsse weg. Warum das falsch sein könnte – dazu hier eine Meinung.”</p>
   </div>
 </div>
