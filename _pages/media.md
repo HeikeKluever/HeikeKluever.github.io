@@ -81,17 +81,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_tagesspiegel.svg' | relative_url }}" alt="Der Tagesspiegel Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://www.tagesspiegel.de/wissen/deutsche-fur-mehr-impfsolidaritat-einige-befurworten-noch-deutlich-mehr-378148.html" target="_blank">
-      Deutsche für mehr Impfsolidarität: Einige befürworten noch deutlich mehr.
-    </a></strong><br>
-    <em>Der Tagesspiegel – January 31, 2022</em>
-    <p>“Deutschland ist besser mit Covid-19-Impfstoffen versorgt als weite Teile der Welt. Ein Berliner Forscher erklärt, warum das viele hier stört.”</p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_berlinerzeitung.svg' | relative_url }}" alt="Berliner Zeitung Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="/assets/pdf/media_2021-11-27_BerlinerZeitung.pdf" target="_blank">
@@ -180,17 +169,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_dlfnova.svg' | relative_url }}" alt="Deutschlandfunk Nova Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://www.deutschlandfunknova.de/beitrag/anreize-fuers-impfen-auch-50-euro-%C3%A4ndern-nur-wenig" target="_blank">
-      Freiheit, Geld, Donuts: Anreize lassen Impfbereitschaft nur leicht steigen
-    </a></strong><br>
-    <em>Deutschlandfunk Nova – July 23, 2021</em>
-    <p>“Die USA haben sich schon einiges einfallen lassen, um mehr Impfwillige anzulocken: Kostenlose Joints in Washington, eine Impflotterie mit dem Hauptgewinn von einer Million Euro oder kostenlose Donuts und Eis. Aber - bringt das was?”</p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_washingtonpost.svg' | relative_url }}" alt="Washington Post Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://www.washingtonpost.com/politics/2019/07/23/across-europe-coalition-governments-are-hurting-political-parties-that-join-them/" target="_blank">
@@ -198,19 +176,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
     </a></strong><br>
     <em>The Washington Post – July 23, 2019</em>
     <p>“Coalition governments are a common electoral outcome in many parts of the world. Both large and small parties have a chance to participate in government and hold important ministerial positions. But is there a downside to being a coalition partner?”</p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0;">
-  <img src="{{ '/assets/img/media_preview/logo_elpais.svg' | relative_url }}" alt="El País Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong>
-      <a href="https://elpais.com/elpais/2019/07/29/opinion/1564400689_978470.html" target="_blank">
-        Y ahora ¿qué hacer?
-      </a>
-    </strong><br>
-    <em>El País – July 30, 2019</em>
-    <p>“En España, quienes quieren pactar no pueden; y quienes pueden, no quieren”</p>
   </div>
 </div>
 
@@ -226,6 +191,17 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <h2>media coverage</h2>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_mdr.svg' | relative_url }}" alt="MDR Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.mdr.de/nachrichten/deutschland/politik/kommentar-brandmauer-afd,meinung-162.html" target="_blank">
+      Kommentar: Die Brandmauer zur AfD ist nicht das Problem
+    </a></strong><br>
+    <em>MDR AKTUELL – June 3, 2026</em>
+    <p>“Parteien der Mitte lehnen Bündnisse mit der AfD ab. Doch sie gewinnt an Stimmen und ein Umdenken wird gefordert: Die Brandmauer müsse weg. Warum das falsch sein könnte – dazu hier eine Meinung.”</p>
+  </div>
+</div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_un.svg' | relative_url }}" alt="UN General Assembly Logo" style="width:105px; height:auto; flex-shrink:0;">
@@ -296,6 +272,41 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_tagesspiegel.svg' | relative_url }}" alt="Der Tagesspiegel Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.tagesspiegel.de/wissen/deutsche-fur-mehr-impfsolidaritat-einige-befurworten-noch-deutlich-mehr-378148.html" target="_blank">
+      Deutsche für mehr Impfsolidarität: Einige befürworten noch deutlich mehr.
+    </a></strong><br>
+    <em>Der Tagesspiegel – January 31, 2022</em>
+    <p>“Deutschland ist besser mit Covid-19-Impfstoffen versorgt als weite Teile der Welt. Ein Berliner Forscher erklärt, warum das viele hier stört.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_dlfnova.svg' | relative_url }}" alt="Deutschlandfunk Nova Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.deutschlandfunknova.de/beitrag/anreize-fuers-impfen-auch-50-euro-%C3%A4ndern-nur-wenig" target="_blank">
+      Freiheit, Geld, Donuts: Anreize lassen Impfbereitschaft nur leicht steigen
+    </a></strong><br>
+    <em>Deutschlandfunk Nova – July 23, 2021</em>
+    <p>“Die USA haben sich schon einiges einfallen lassen, um mehr Impfwillige anzulocken: Kostenlose Joints in Washington, eine Impflotterie mit dem Hauptgewinn von einer Million Euro oder kostenlose Donuts und Eis. Aber - bringt das was?”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0;">
+  <img src="{{ '/assets/img/media_preview/logo_elpais.svg' | relative_url }}" alt="El País Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong>
+      <a href="https://elpais.com/elpais/2019/07/29/opinion/1564400689_978470.html" target="_blank">
+        Y ahora ¿qué hacer?
+      </a>
+    </strong><br>
+    <em>El País – July 30, 2019</em>
+    <p>“En España, quienes quieren pactar no pueden; y quienes pueden, no quieren”</p>
+  </div>
+</div>
+
 <h2>outreach</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
@@ -351,7 +362,7 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_govlab.png' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <img src="{{ '/assets/img/media_preview/logo_govlab.png' | relative_url }}" alt="Humboldt Governance Lab Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
       <a href="https://hu-govlab.de/en/events-2" target="_blank">
@@ -364,7 +375,7 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_govlab.png' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <img src="{{ '/assets/img/media_preview/logo_govlab.png' | relative_url }}" alt="Humboldt Governance Lab Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
       <a href="https://hu-govlab.de/en/events-2" target="_blank">
@@ -377,7 +388,7 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_scripts.svg' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <img src="{{ '/assets/img/media_preview/logo_scripts.svg' | relative_url }}" alt="SCRIPTS Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
       <a href="https://www.fu-berlin.de/kalender/2024/06/20240610-europa-hat-gewaehlt.html" target="_blank">
@@ -390,7 +401,7 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_adenauer.svg' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <img src="{{ '/assets/img/media_preview/logo_adenauer.svg' | relative_url }}" alt="Konrad-Adenauer-Stiftung Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
       <!-- <a href="https://example.org" target="_blank"> -->
@@ -403,7 +414,7 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_bua.svg' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <img src="{{ '/assets/img/media_preview/logo_bua.svg' | relative_url }}" alt="Berlin University Alliance Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
       <a href="https://www.berlin-university-alliance.de/wissenslabor/events/openspace_1" target="_blank">
@@ -427,14 +438,14 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_scripts.svg' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <img src="{{ '/assets/img/media_preview/logo_scripts.svg' | relative_url }}" alt="SCRIPTS Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
       <a href="https://www.scripts-berlin.eu/transfer-activities/events/kel/BSW/2021_Berlin-Science-Week-Panel_How-_Not_-To-Increase-Vaccine-Willingness.html" target="_blank">
         Berlin Science Week Panel | How (not) to Increase Vaccination Willingness
       </a>
     </strong><br>
-    <em>SCRIPTS – Nov 8, 2021</em>
+    <em>SCRIPTS – November 8, 2021</em>
     <p>“What can be said at this point  about the group of unvaccinated people in Germany? Which strategies are most effective in increasing the willingness to be vaccinated? What is the relation between enforcement, public trust and vaccine acceptance?” A video recording of the discussion is available on <a href="https://www.youtube.com/watch?v=lxxWlMiTcVg"> YouTube</a>. </p>
   </div>
 </div>
