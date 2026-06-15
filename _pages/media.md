@@ -13,7 +13,7 @@ nav_order: 7
   <img src="{{ '/assets/img/media_preview/logo_wissenschaftskommunikation.svg' | relative_url }}" alt="Wissenschaftskommunikation.de Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://www.wissenschaftskommunikation.de/populistinnen-zeichnen-ein-uebertriebenes-bild-gesellschaftlicher-missstaende-97905/" target="_blank">
-      Populist*innen zeichnen “ein übertriebenes Bild” gesellschaftlicher Missstände
+      Populist*innen zeichnen „ein übertriebenes Bild“ gesellschaftlicher Missstände
     </a></strong><br>
     <em>Wissenschaftskommunikation.de – June 15, 2026</em>
     <p>“Sind es reale Probleme oder ihre Wahrnehmung, die politische Radikalisierung antreibt? Heike Klüver, Politikwissenschaftlerin an der Humboldt-Universität zu Berlin, hat dazu mehrere Studien in Europa ausgewertet. Im Interview beschreibt sie, wie Fehlwahrnehmungen politische Unzufriedenheit verstärken können.”</p>
