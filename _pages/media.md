@@ -215,6 +215,17 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_superinteressante.svg' | relative_url }}" alt="Superinteressante Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://super.abril.com.br/ciencia/quanto-mais-calor-menos-cartoes-o-curioso-efeito-da-temperatura-no-futebol/" target="_blank">
+      Quanto mais calor, menos cartões: o curioso efeito da temperatura no futebol
+    </a></strong><br>
+    <em>Superinteressante – July 7, 2026</em>
+    <p>“Estudo com quase 1 milhão de jogos revela que o calor extremo reduz os cartões em campo, contrariando o que pesquisas anteriores indicavam.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_mdr.svg' | relative_url }}" alt="MDR Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://www.mdr.de/nachrichten/deutschland/politik/kommentar-brandmauer-afd,meinung-162.html" target="_blank">
