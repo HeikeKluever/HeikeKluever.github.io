@@ -204,6 +204,17 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 <h2>media coverage</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_tagesanzeiger.svg' | relative_url }}" alt="Tages-Anzeiger Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.tagesanzeiger.ch/hitzewelle-wie-hitze-aggression-und-wahlen-beeinflusst-164756004072" target="_blank">
+      Steigende Temperaturen machen uns aggressiver – und beeinflussen Fussball und Wahlen
+    </a></strong><br>
+    <em>Tages-Anzeiger – July 9, 2026</em>
+    <p>“Hitzewellen reizen nicht nur die Nerven, sondern verschieben auch politische Mehrheiten. Neue Studien zeigen, wie der Klimawandel ganze Gesellschaften verändert.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_mdr.svg' | relative_url }}" alt="MDR Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://www.mdr.de/nachrichten/deutschland/politik/kommentar-brandmauer-afd,meinung-162.html" target="_blank">
