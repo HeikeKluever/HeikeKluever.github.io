@@ -215,6 +215,17 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_exame.svg' | relative_url }}" alt="Exame Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://exame.com/esporte/calor-extremo-reduz-cartoes-no-futebol-estudo-explica-por-que-isso-acontece/" target="_blank">
+      Calor extremo reduz cartões no futebol? Estudo explica por que isso acontece
+    </a></strong><br>
+    <em>Exame – July 9, 2026</em>
+    <p>“Pesquisa com quase 1 milhão de partidas mostra que temperaturas elevadas mudam o comportamento dos jogadores em campo”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_superinteressante.svg' | relative_url }}" alt="Superinteressante Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://super.abril.com.br/ciencia/quanto-mais-calor-menos-cartoes-o-curioso-efeito-da-temperatura-no-futebol/" target="_blank">
