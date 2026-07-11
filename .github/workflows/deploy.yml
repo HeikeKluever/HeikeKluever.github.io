@@ -59,18 +59,21 @@ on:
       - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
-  workflow_run:
-    workflows: ["Compile LaTeX via dante‑ev Action"]
-    types:
-      - completed
   workflow_dispatch:
 
+# Deploy straight to GitHub Pages via the official actions (Pages source: "GitHub Actions").
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment; never cancel an in-progress production deploy.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  deploy:
-    # available images: https://github.com/actions/runner-images#available-images
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -92,18 +95,53 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-      - name: Install and Build 🔧
+      - name: Install build dependencies 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
-          export JEKYLL_ENV=production
-          bundle exec jekyll build
+      - name: Compile CV via LuaLaTeX 📄
+        id: latex
+        continue-on-error: true
+        uses: dante-ev/latex-action@2026-A
+        with:
+          root_file: root.tex
+          compiler: latexmk
+          args: -lualatex -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
+          working_directory: assets/tex
+          extra_system_packages: "biber"
+      - name: Promote fresh CV PDF (only on successful compile) ✅
+        if: steps.latex.outcome == 'success'
+        run: |
+          if [ -s assets/tex/root.pdf ]; then
+            cp assets/tex/root.pdf assets/pdf/heikekluever_cv.pdf
+            echo "Promoted freshly compiled CV PDF."
+          else
+            echo "root.pdf missing or empty despite success; keeping committed CV PDF." >&2
+          fi
+      - name: Clean LaTeX build artifacts 🧹
+        run: find assets/tex -maxdepth 1 -name 'root.*' ! -name 'root.tex' -delete
+      - name: Build with Jekyll 🔧
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
-      - name: Deploy 🚀
+      - name: Upload Pages artifact 📦
         if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: actions/upload-pages-artifact@v3
         with:
-          folder: _site
+          path: _site
+
+  deploy:
+    needs: build
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages 🚀
+        id: deployment
+        uses: actions/deploy-pages@v4
