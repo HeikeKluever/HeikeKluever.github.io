@@ -215,17 +215,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_tagesanzeiger.svg' | relative_url }}" alt="Tages-Anzeiger Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong><a href="https://www.tagesanzeiger.ch/hitzewelle-wie-hitze-aggression-und-wahlen-beeinflusst-164756004072" target="_blank">
-      Steigende Temperaturen machen uns aggressiver – und beeinflussen Fussball und Wahlen
-    </a></strong><br>
-    <em>Tages-Anzeiger – July 9, 2026</em>
-    <p>“Hitzewellen reizen nicht nur die Nerven, sondern verschieben auch politische Mehrheiten. Neue Studien zeigen, wie der Klimawandel ganze Gesellschaften verändert.”</p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_exame.svg' | relative_url }}" alt="Exame Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://exame.com/esporte/calor-extremo-reduz-cartoes-no-futebol-estudo-explica-por-que-isso-acontece/" target="_blank">
@@ -233,6 +222,17 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
     </a></strong><br>
     <em>Exame – July 9, 2026</em>
     <p>“Pesquisa com quase 1 milhão de partidas mostra que temperaturas elevadas mudam o comportamento dos jogadores em campo”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_tagesanzeiger.svg' | relative_url }}" alt="Tages-Anzeiger Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.tagesanzeiger.ch/hitzewelle-wie-hitze-aggression-und-wahlen-beeinflusst-164756004072" target="_blank">
+      Steigende Temperaturen machen uns aggressiver – und beeinflussen Fussball und Wahlen
+    </a></strong><br>
+    <em>Tages-Anzeiger – July 9, 2026</em>
+    <p>“Hitzewellen reizen nicht nur die Nerven, sondern verschieben auch politische Mehrheiten. Neue Studien zeigen, wie der Klimawandel ganze Gesellschaften verändert.”</p>
   </div>
 </div>
 
@@ -443,19 +443,6 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
-  <img src="{{ '/assets/img/media_preview/logo_scripts.svg' | relative_url }}" alt="SCRIPTS Logo" style="width:105px; height:auto; flex-shrink:0;">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
-    <strong>
-      <a href="https://www.fu-berlin.de/kalender/2024/06/20240610-europa-hat-gewaehlt.html" target="_blank">
-        Europa hat gewählt – was jetzt?
-      </a>
-    </strong><br>
-    <em>SCRIPTS – June 10, 2024</em>
-    <p>“Am Tag nach den Wahlen analysieren die Politikwissenschaftler:innen, Wahlforder:innen und Kommunikationsforscher:innen gemeinsam mit Vertreter:innen Europäischer Institutionen den Wahlausgang und diskutieren die Folgen der Ergebnisse für die Zukunft Europas.”</p>
-  </div>
-</div>
-
-<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_adenauer.svg' | relative_url }}" alt="Konrad-Adenauer-Stiftung Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
@@ -465,6 +452,19 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
     </strong><br>
     <em>Konrad-Adenauer-Stiftung – June 10, 2024</em>
     <p></p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_scripts.svg' | relative_url }}" alt="SCRIPTS Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong>
+      <a href="https://www.fu-berlin.de/kalender/2024/06/20240610-europa-hat-gewaehlt.html" target="_blank">
+        Europa hat gewählt – was jetzt?
+      </a>
+    </strong><br>
+    <em>SCRIPTS – June 10, 2024</em>
+    <p>“Am Tag nach den Wahlen analysieren die Politikwissenschaftler:innen, Wahlforder:innen und Kommunikationsforscher:innen gemeinsam mit Vertreter:innen Europäischer Institutionen den Wahlausgang und diskutieren die Folgen der Ergebnisse für die Zukunft Europas.”</p>
   </div>
 </div>
 
