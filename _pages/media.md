@@ -204,6 +204,17 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 <h2>media coverage</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_24heures.svg' | relative_url }}" alt="24 heures Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.24heures.ch/la-chaleur-touche-aussi-le-football-et-la-politique-580938288465" target="_blank">
+      La chaleur touche aussi le football et la politique
+    </a></strong><br>
+    <em>24 heures – July 13, 2026</em>
+    <p>“Lorsqu’ils s’additionnent au sein d’un groupe, ces transferts d’excitation modifient les comportements collectifs.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_tagesanzeiger.svg' | relative_url }}" alt="Tages-Anzeiger Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://www.tagesanzeiger.ch/hitzewelle-wie-hitze-aggression-und-wahlen-beeinflusst-164756004072" target="_blank">
