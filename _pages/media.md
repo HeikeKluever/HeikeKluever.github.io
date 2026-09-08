@@ -204,6 +204,28 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 <h2>media coverage</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_diezeit.svg' | relative_url }}" alt="Die Zeit Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.zeit.de/politik/deutschland/2026-09/rechte-regierungen-entzauberung-politikwissenschaft-heike-kluever" target="_blank">
+      Jetzt lasst sie halt mal machen? – Das geht nach hinten los
+    </a></strong><br>
+    <em>Die Zeit – September 7, 2026</em>
+    <p>“Rechte Parteien entzaubern sich nicht, wenn sie regieren. Da ist die Wissenschaft sehr klar. Wer den Satz sagt, hofft auf Regeln, die für die AfD nicht mehr gelten.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_diezeit.svg' | relative_url }}" alt="Die Zeit Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.zeit.de/politik/deutschland/2026-09/demokratie-aufbruch-sachsen-anhalt-landtagswahl" target="_blank">
+      Der blaue Sturm
+    </a></strong><br>
+    <em>Die Zeit – September 6, 2026</em>
+    <p>“Sachsen-Anhalt hat so rechtsextrem gewählt wie nie ein Bundesland zuvor. Jetzt braucht die liberale Demokratie den Schutz der deutschen Mehrheit.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_24heures.svg' | relative_url }}" alt="24 heures Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://www.24heures.ch/la-chaleur-touche-aussi-le-football-et-la-politique-580938288465" target="_blank">
