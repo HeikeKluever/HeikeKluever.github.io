@@ -1,0 +1,5 @@
+**Linus Hartmann** is a Ph.D. candidate at the Research Training Group “The Dynamics of Demography, Democratic Processes and Public Policy” (DYNAMICS), jointly organized by the Hertie School and the Department of Social Sciences at Humboldt-Universität zu Berlin, and at the Berlin Graduate School for Global and Transregional Studies (BGTS), since 2026.
+
+He holds a Master’s degree in Economics from Sciences Po Paris, where he previously completed a French-German Bachelor’s degree in Social Sciences. Linus Hartmann was a research associate at the Chair of Strategic Management at the Technical University of Munich (TUM) and a research assistant at the Leibniz Centre for European Economic Research (ZEW Mannheim) and at the Department of Economics at Sciences Po. He is a Data Replicator for the Journal of Political Economy (JPE) and has worked for the United Nations and the European Commission.
+
+His research interests are the quantitative analysis of political behavior, populism, and the societal disruptions of decarbonization.

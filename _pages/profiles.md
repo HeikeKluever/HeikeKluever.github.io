@@ -14,33 +14,38 @@ profiles:
     image: profiles/bondeli_pic.jpg
     content: profile_bondeli.md
     image_circular: false
-    
+
   - align: left
+    image: profiles/hartmann_pic.jpg
+    content: profile_hartmann.md
+    image_circular: false
+
+  - align: right
     image: profiles/hermes_pic.jpg
     content: profile_hermes.md
     image_circular: false
 
-  - align: right
-    image: profiles/krueger_pic.png
-    content: profile_krueger.md
-    image_circular: false
-  
   - align: left
     image: profiles/kollberg_pic.jpg
     content: profile_kollberg.md
     image_circular: false
 
   - align: right
+    image: profiles/krueger_pic.png
+    content: profile_krueger.md
+    image_circular: false
+
+  - align: left
     image: profiles/thieme_pic.jpg
     content: profile_thieme.md
     image_circular: false
 
-  - align: left
+  - align: right
     image: profiles/wappenhans_pic.png
     content: profile_wappenhans.md
     image_circular: false
 
-  - align: right
+  - align: left
     image: profiles/wirthgen_pic.jpg
     content: profile_wirthgen.md
     image_circular: false
