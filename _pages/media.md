@@ -387,6 +387,19 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 <h2>outreach</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_radio3.svg' | relative_url }}" alt="radio3 Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong>
+      <a href="https://www.radiodrei.de/programm/schema/sendungen/der_zweite_gedanke/archiv/20260910_1900.html" target="_blank">
+        Der Zweite Gedanke | Zukunft Deutschland: AfD an der Macht?
+      </a>
+    </strong><br>
+    <em>radio3 – September 10, 2026</em>
+    <p>“Beim Internationalen Literaturfestival Berlin hat die Politikwissenschaftlerin Heike Klüver mit Justus Bender und dem Publikum am Wahlabend die ersten Hochrechnungen aus Sachsen-Anhalt kommentiert und über die Zukunft Deutschlands nachgedacht.” A video recording of the debate is available on <a href="https://www.youtube.com/live/GkCjTUes440">YouTube</a>.</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_republica.svg' | relative_url }}" alt="re:publica Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
