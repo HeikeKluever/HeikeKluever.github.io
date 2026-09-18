@@ -10,6 +10,17 @@ nav_order: 7
 <h2>interviews & op-eds</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_tagesspiegel.svg' | relative_url }}" alt="Der Tagesspiegel Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.tagesspiegel.de/politik/afd-im-hohenflug--und-nun-die-brandmauer-ist-eine-demokratische-notwendigkeit-16049839.html" target="_blank">
+      AfD im Höhenflug – und nun?
+    </a></strong><br>
+    <em>Der Tagesspiegel – September 16, 2026</em>
+    <p>“In Sachsen-Anhalt hat die AfD ein Rekordergebnis erzielt, in Mecklenburg-Vorpommern und Berlin steht es bevor. Sechs Politikwissenschaftler über die Fehler der Demokraten – und die fatale Hoffnung auf Entzauberung.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_wissenschaftskommunikation.svg' | relative_url }}" alt="Wissenschaftskommunikation.de Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://www.wissenschaftskommunikation.de/populistinnen-zeichnen-ein-uebertriebenes-bild-gesellschaftlicher-missstaende-97905/" target="_blank">
