@@ -3,7 +3,7 @@ layout: page
 title: GENDER & POLITICS
 description: ""
 img: assets/img/projects/project_genderpolitics.jpg
-importance: 4
+importance: 6
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
@@ -13,7 +13,7 @@ importance: 4
   </h2>
   
   <p>
-    This research project investigates the interplay between gender and political behaviour in Europe, focusing on representation, electoral outcomes, and the politicization of gender and sexuality. One study examines the impact of nominating female top candidates on electoral performance, revealing that such nominations positively influence voter perceptions and support. Another study analyzes the electoral effects of state-sponsored homophobia in Poland, finding that anti-LGBTQ resolutions increased turnout for the incumbent party while suppressing opposition mobilization. A third paper explores the youth gender gap in support for far-right parties across Europe, demonstrating that young men are more inclined towards far-right ideologies compared to young women, with this gap being particularly pronounced among Millennials and Generation Z. Collectively, these studies contribute to a deeper understanding of how gender-related factors influence political landscapes and voter behaviour in contemporary European democracies.
+    This research project investigates <strong>the interplay between gender and political behaviour in Europe</strong>, focusing on representation, electoral outcomes, and the politicization of gender and sexuality. One study examines the impact of <strong>nominating female top candidates</strong> on electoral performance, revealing that such nominations positively influence voter perceptions and support. Another study analyzes the electoral effects of <strong>state-sponsored homophobia in Poland</strong>, finding that anti-LGBTQ resolutions increased turnout for the incumbent party while suppressing opposition mobilization. A third paper explores the <strong>youth gender gap in support for far-right parties</strong> across Europe, demonstrating that young men are more inclined towards far-right ideologies compared to young women, with this gap being particularly pronounced among Millennials and Generation Z. Collectively, these studies contribute to a deeper understanding of <strong>how gender-related factors influence political landscapes and voter behaviour</strong> in contemporary European democracies.
   </p>
 
 </div>

@@ -3,7 +3,7 @@ layout: page
 title: LOBBYING
 description: ""
 img: assets/img/projects/project_lobbying.jpg
-importance: 8
+importance: 10
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
@@ -13,7 +13,16 @@ importance: 8
   </h2>
   
   <p>
-    This research project offers a comprehensive investigation into the functioning of interest representation and lobbying, focusing on both the German and European contexts. It brings together three interrelated strands of research to better understand why some interest groups wield significant political influence while others do not, how lobbying is structured and regulated, and why interest group mobilization varies across policy domains. The first strand explores the causes and consequences of lobbying and lobbying regulation in Germany. Using a combination of experimental, observational, and data-driven methods, it examines public preferences for lobbying transparency, the effects of disclosure rules on candidate emergence and voter behavior, and the professional backgrounds of lobbyists by linking LinkedIn data with the German lobbying register. It also investigates the democratic implications of “revolving door” lobbying and evaluates the effectiveness of regulatory mechanisms such as cooling-off periods. The second strand addresses the puzzle of why some policy sectors are densely populated by interest groups while others remain underrepresented. It develops a theoretical framework tailored to the German political system—building on models developed for the U.S.—and tests its predictions using a novel longitudinal dataset of registered interest groups in Germany from 1974 to 2014. This approach allows for a systematic analysis of the political, institutional, and economic factors that shape patterns of group mobilization. The third strand shifts the analytical lens to the European Union and investigates the conditions under which interest groups are able to influence EU policy-making. Drawing on an original and extensive dataset—including text analysis of European Commission consultations, a large-scale survey of interest groups, and EU legislative data—this research conceptualizes lobbying as an exchange relationship in which European institutions trade influence for valuable resources: information, citizen support, and economic power. Crucially, it demonstrates that lobbying success depends not only on individual groups but also on the capacity of issue-specific lobbying coalitions to collectively provide these resources.
+    This research project offers a comprehensive investigation into the functioning of interest representation and lobbying, focusing on both the German and European contexts. It brings together three interrelated strands of research to better understand why some interest groups wield significant political influence while others do not, how lobbying is structured and regulated, and why interest group mobilization varies across policy domains.
+  </p>
+  <p>
+    The first strand explores <strong>the causes and consequences of lobbying and lobbying regulation in Germany</strong>. Using a combination of experimental, observational, and data-driven methods, it examines public preferences for lobbying transparency, the effects of disclosure rules on candidate emergence and voter behavior, and the professional backgrounds of lobbyists by linking LinkedIn data with the German lobbying register. It also investigates the democratic implications of “revolving door” lobbying and evaluates the effectiveness of regulatory mechanisms such as cooling-off periods.
+  </p>
+  <p>
+    The second strand addresses the puzzle of <strong>why some policy sectors are densely populated by interest groups while others remain underrepresented</strong>. It develops a theoretical framework tailored to the German political system—building on models developed for the U.S.—and tests its predictions using a novel longitudinal dataset of registered interest groups in Germany from 1974 to 2014. This approach allows for a systematic analysis of the political, institutional, and economic factors that shape patterns of group mobilization.
+  </p>
+  <p>
+    The third strand shifts the analytical lens to the European Union and investigates <strong>the conditions under which interest groups are able to influence EU policy-making</strong>. Drawing on an original and extensive dataset—including text analysis of European Commission consultations, a large-scale survey of interest groups, and EU legislative data—this research conceptualizes <strong>lobbying as an exchange relationship</strong> in which European institutions trade influence for valuable resources: information, citizen support, and economic power. Crucially, it demonstrates that lobbying success depends not only on individual groups but also on the capacity of issue-specific lobbying coalitions to collectively provide these resources.
   </p>
   <p>
     Research in this area has been (partly) funded by:

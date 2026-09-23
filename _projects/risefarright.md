@@ -3,7 +3,7 @@ layout: page
 title: THE RISE OF THE FAR RIGHT
 description: ""
 img: assets/img/projects/project_risefarright.jpg
-importance: 2
+importance: 4
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
@@ -13,7 +13,7 @@ importance: 2
   </h2>
   
   <p>
-    The project examines how socio-economic inequality, migration, and party communication contribute to the rise of far-right parties in Europe. Its overarching hypothesis is that far-right parties have strategically exploited (perceived) inequalities and recent migration trends to mobilize voters. The research is structured around four main pillars. First, it investigates how inequality shapes voter support for far-right parties. Second, it explores the impact of migration inflows on electoral behavior. Third, it analyzes the issues emphasized in party communication, with a particular focus on the messaging strategies of far-right parties. Finally, the project examines how mainstream parties can effectively respond to the far right—both during election campaigns and in their social media engagement.
+    The project examines how socio-economic inequality, migration, and party communication contribute to the rise of far-right parties in Europe. Its overarching hypothesis is that far-right parties have strategically exploited (perceived) inequalities and recent migration trends to mobilize voters. The research is structured around four main pillars. First, it investigates <strong>how inequality shapes voter support for far-right parties</strong>. Second, it explores <strong>the impact of migration inflows on electoral behavior</strong>. Third, it analyzes <strong>the issues emphasized in party communication</strong>, with a particular focus on the messaging strategies of far-right parties. Finally, the project examines <strong>how mainstream parties can effectively respond to the far right</strong>—both during election campaigns and in their social media engagement.
   </p>
   <p>
     Research in this area has been (partly) funded by:

@@ -2,3 +2,30 @@
   height: 180px;
   object-fit: cover;
 }
+
+/* Project details (title, PIs, funding): wrapped values stay in their own column */
+.project-details {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 1em;
+  margin: 0 0 1rem;
+}
+
+.project-details dt {
+  font-weight: bold;
+  margin: 0;
+}
+
+.project-details dd {
+  margin: 0;
+}
+
+@media (max-width: 576px) {
+  .project-details {
+    grid-template-columns: 1fr;
+  }
+
+  .project-details dd {
+    margin-bottom: 0.4em;
+  }
+}

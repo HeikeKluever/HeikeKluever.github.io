@@ -3,7 +3,7 @@ layout: page
 title: COALITION GOVERNMENTS
 description: ""
 img: assets/img/projects/project_coalitiongovernments.jpg
-importance: 9
+importance: 11
 ---
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 1.5em; margin: 2em 0; background-color: #f9f9f9;">
