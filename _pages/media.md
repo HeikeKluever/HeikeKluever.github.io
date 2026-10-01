@@ -10,6 +10,17 @@ nav_order: 7
 <h2>interviews & op-eds</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_srf.svg' | relative_url }}" alt="SRF Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.srf.ch/audio/echo-der-zeit/entzaubert-regierungsverantwortung-extrem-rechte-parteien?partId=d8RJhSlOdGVcm9VZluuQvU7LfJ8" target="_blank">
+      Entzaubert Regierungsverantwortung extrem rechte Parteien?
+    </a></strong><br>
+    <em>Radio SRF, Echo der Zeit – September 29, 2026</em>
+    <p>“Sollten etablierte Parteien die Alternative für Deutschland AfD mitregieren lassen, damit sie sich selbst entlarvt? Politikwissenschaftlerin Heike Klüver hat diese Frage untersucht. Ihr Schluss: Eine Regierungsbeteiligung schwächt extrem rechte Parteien nicht, sondern stärkt ihre Wählerbasis.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_tagesspiegel.svg' | relative_url }}" alt="Der Tagesspiegel Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://www.tagesspiegel.de/politik/afd-im-hohenflug--und-nun-die-brandmauer-ist-eine-demokratische-notwendigkeit-16049839.html" target="_blank">
