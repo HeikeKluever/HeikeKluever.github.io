@@ -488,7 +488,7 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
   <img src="{{ '/assets/img/media_preview/logo_gorki.svg' | relative_url }}" alt="Maxim Gorki Theater Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
-      <a href="https://www.gorki.de/de/der-rat-der-geschichte" target="_blank">
+      <a href="https://web.archive.org/web/20260614193103/https://www.gorki.de/de/der-rat-der-geschichte" target="_blank">
         Der Rat der Geschichte
       </a>
     </strong><br>
@@ -540,7 +540,7 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
   <img src="{{ '/assets/img/media_preview/logo_scripts.svg' | relative_url }}" alt="SCRIPTS Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong>
-      <a href="https://www.fu-berlin.de/kalender/2024/06/20240610-europa-hat-gewaehlt.html" target="_blank">
+      <a href="https://www.scripts-berlin.eu/knowledge-exchange/events/kel/2024_Europawahl.html" target="_blank">
         Europa hat gewählt – was jetzt?
       </a>
     </strong><br>
