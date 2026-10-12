@@ -226,6 +226,17 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 <h2>media coverage</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_zdf.svg' | relative_url }}" alt="ZDF Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.zdf.de/video/shows/die-anstalt-104/die-anstalt-vom-6-oktober-2026-100" target="_blank">
+      Jetzt erst rechts!
+    </a></strong><br>
+    <em>ZDF, Die Anstalt – October 6, 2026</em>
+    <p>“Wie macht man aus Friedrich Merz einen toughen Siegertyp? Maike Kühl, Max Uthoff und ihre Gäste suchen für den Kanzler Wege aus der Krise.” The episode draws on Hermes &amp; Klüver (2025): <a href="https://doi.org/10.31235/osf.io/3mtxs_v1" target="_blank"><em>Taming the Far Right? Government Inclusion Strengthens Rather Than Weakens Far-Right Parties</em></a>; see also the episode’s <a href="https://www.zdf.de/assets/faktencheck-vom-6-oktober-2026-100~original" target="_blank">fact check</a>.</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_diezeit.svg' | relative_url }}" alt="Die Zeit Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://www.zeit.de/politik/deutschland/2026-09/rechte-regierungen-entzauberung-politikwissenschaft-heike-kluever" target="_blank">
@@ -407,6 +418,19 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 </div>
 
 <h2>outreach</h2>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_3sat.svg' | relative_url }}" alt="3sat Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong>
+      <a href="https://www.3sat.de/kabarett/bosetti-late-night/bosetti-late-night-folge-23-bln-102.html" target="_blank">
+        Wer hat Angst vor der AfD?
+      </a>
+    </strong><br>
+    <em>3sat, Bosetti Late Night – October 4, 2026</em>
+    <p>“Was bedeutet ‘wehrhafte Demokratie’ im Angesicht einer möglichen AfD-Landesregierung? Dieser Frage geht Sarah Bosetti mit Heike Klüver, Max Heckel und Bijan Moini auf den Grund.”</p>
+  </div>
+</div>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_radio3.svg' | relative_url }}" alt="radio3 Logo" style="width:105px; height:auto; flex-shrink:0;">
