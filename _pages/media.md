@@ -226,6 +226,17 @@ Umgang mit den Rechtspopulisten in Deutschland funktioniert.”</p>
 <h2>media coverage</h2>
 
 <div style="display:flex; gap:1em; align-items:center; margin:1em 0">
+  <img src="{{ '/assets/img/media_preview/logo_tagesspiegel.svg' | relative_url }}" alt="Der Tagesspiegel Logo" style="width:105px; height:auto; flex-shrink:0;">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
+    <strong><a href="https://www.tagesspiegel.de/wissen/polizei-vereine-und-engagement-gegen-rechts-diese-zehn-forscher-arbeiten-zum-erhalt-der-demokratie-16095900.html" target="_blank">
+      Polizei, Vereine und Engagement gegen Rechts: Diese zehn Forscher arbeiten zum Erhalt der Demokratie
+    </a></strong><br>
+    <em>Der Tagesspiegel – October 9, 2026</em>
+    <p>“Haben Sie heute schon was fürs Gemeinwohl getan? Das liberale System am Laufen zu halten, ist gar nicht so einfach. Um die Facetten der Teilhabe geht’s in Folge 10 unserer Wissenschaftsserie.”</p>
+  </div>
+</div>
+
+<div style="display:flex; gap:1em; align-items:center; margin:1em 0">
   <img src="{{ '/assets/img/media_preview/logo_zdf.svg' | relative_url }}" alt="ZDF Logo" style="width:105px; height:auto; flex-shrink:0;">
   <div style="border:1px solid #ccc; border-radius:10px; padding:1em; background-color:#f9f9f9; flex:1;">
     <strong><a href="https://www.zdf.de/video/shows/die-anstalt-104/die-anstalt-vom-6-oktober-2026-100" target="_blank">
