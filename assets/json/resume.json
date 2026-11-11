@@ -80,6 +80,24 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Max Planck Society",
+      "position": "Rapporteur for evaluating all Max Planck Institutes in the Social Sciences",
+      "startDate": "2026",
+      "endDate": "2027"
+    },
+    {
+      "organization": "European University Institute, Florence",
+      "position": "Member of the Advisory Board",
+      "startDate": "2026-05"
+    },
+    {
+      "organization": "European Research Council (ERC)",
+      "position": "Member of the Starting Grant Panel (SH2)",
+      "url": "https://erc.europa.eu/apply-grant/starting-grant",
+      "startDate": "2026",
+      "endDate": "2027"
+    },
   {
     "organization": "German Research Foundation (DFG Fachkollegium)",
     "position": "Member of the Review Board",
@@ -152,6 +170,18 @@
     }
   ],
   "projects": [
+    {
+      "name": "Fritz Thyssen Foundation",
+      "summary": "Project Title: Making the State Work? The Effects of Public Service Investments on Democratic Resilience (STATEWORK), Co-PI: Markus Kollberg, Grant amount: €\u00A0205,458",
+      "startDate": "2027-01",
+      "endDate": "2028-12"
+    },
+    {
+      "name": "German Research Foundation (SCRIPTS Cluster)",
+      "summary": "Project Title: Strengthening democratic resilience with AI: The democratic potential of digital holocaust testimonies (DEMO-AIM), Co-PI: Macartan Humphreys, Johannes Giesecke, Grant amount: €\u00A0429,600",
+      "startDate": "2027-01",
+      "endDate": "2029-12"
+    },
     {
       "name": "German Research Foundation",
       "summary": "COUNTERRIGHT; Principal Investigator, with Anselm Hager (Berlin), Grant amount: €\u00A0677,818",
