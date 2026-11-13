@@ -91,13 +91,6 @@
       "position": "Member of the Advisory Board",
       "startDate": "2026-05"
     },
-    {
-      "organization": "European Research Council (ERC)",
-      "position": "Member of the Starting Grant Panel (SH2)",
-      "url": "https://erc.europa.eu/apply-grant/starting-grant",
-      "startDate": "2026",
-      "endDate": "2027"
-    },
   {
     "organization": "German Research Foundation (DFG Fachkollegium)",
     "position": "Member of the Review Board",
@@ -109,7 +102,13 @@
       "position": "Member of the Starting Grant Panel (SH2)",
       "url": "https://erc.europa.eu/apply-grant/starting-grant",
       "startDate": "2024",
-      "endDate": "2025"
+      "endDate": "2027",
+      "dateLabel": "2024/25, 2026/27"
+    },
+    {
+      "organization": "Alexander von Humboldt Foundation, Henriette Herz Programme",
+      "position": "Member of the Selection Panel",
+      "startDate": "2023-04"
     },
     {
     "organization": "Leibniz Institute for the Social Sciences (GESIS)",
